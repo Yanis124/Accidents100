@@ -1,0 +1,579 @@
+201200053664*Paris*Île-de-France*Paris-3e-arrondissement*30*05*2012*11:50*323, RUE SAINT MARTIN*Normale*Plein jour*Indemne,Blessé*1965,1957*2012-05-30T09:50:00+00:00*48.867453*2.354542
+201200053665*Paris*Île-de-France*Paris-2e-arrondissement*30*05*2012*21:00*87, RUE REAUMUR*Pluie légère*Crépuscule ou aube*Blessé,Indemne*1966,1988*2012-05-30T19:00:00+00:00*48.867066*2.347646
+201200053670*Paris*Île-de-France*Paris-2e-arrondissement*21*06*2012*10:00*137, RUE MONTMARTRE*Normale*Plein jour*Indemne,Blessé*1989,1964*2012-06-21T08:00:00+00:00*48.869905*2.342653
+201200053671*Paris*Île-de-France*Paris-2e-arrondissement*02*07*2012*07:45*, PLACE DE L OPERA*Normale*Plein jour*Blessé,Indemne*1962,1983*2012-07-02T05:45:00+00:00*48.870057*2.33227
+201200053676*Paris*Île-de-France*Paris-2e-arrondissement*12*07*2012*11:20*29, RUE DE TURBIGO*Normale*Plein jour*Indemne,Blessé*1992,1935*2012-07-12T09:20:00+00:00*48.864303*2.350771
+201200053737*Paris*Île-de-France*Paris-2e-arrondissement*10*02*2012*14:40*RUE DU QUATRE SEPTEMBRE*Normale*Plein jour*Blessé,Indemne*1963,1967*2012-02-10T13:40:00+00:00*48.869479*2.336543
+201200053807*Paris*Île-de-France*Paris-3e-arrondissement*13*09*2012*19:40*55, RUE DE TURBIGO*Normale*Plein jour*Indemne,Blessé*1983,1988*2012-09-13T17:40:00+00:00*48.865633*2.356205
+201200053820*Paris*Île-de-France*Paris-3e-arrondissement*11*10*2012*15:20*45, RUE DE TURBIGO*Normale*Plein jour*Blessé*1962*2012-10-11T13:20:00+00:00*48.865021*2.353691
+201200053829*Paris*Île-de-France*Paris-4e-arrondissement*04*11*2012*19:10*3, RUE DES FRANCS BOURGE*Normale*Nuit avec éclairage public allumé*Blessé*1984*2012-11-04T18:10:00+00:00*48.856499*2.364007
+201200053838*Paris*Île-de-France*Paris-3e-arrondissement*07*12*2012*10:50*23, BOULEVARD DU TEMPLE*Pluie légère*Plein jour*Indemne,Blessé*1980,1977*2012-12-07T09:50:00+00:00*48.864722*2.365489
+201200053888*Paris*Île-de-France*Paris-4e-arrondissement*21*04*2012*12:25*23, BOULEVARD BOURDON*Normale*Plein jour*Indemne,Blessé*1971,1967*2012-04-21T10:25:00+00:00*48.850487*2.366895
+201200053897*Paris*Île-de-France*Paris-4e-arrondissement*15*05*2012*18:10*34, BOULEVARD HENRI IV*Normale*Plein jour*Indemne,Blessé*1986,1973*2012-05-15T16:10:00+00:00*48.851911*2.365518
+201200053903*Paris*Île-de-France*Paris-4e-arrondissement*26*05*2012*18:30*18, RUE SAINT ANTOINE*Normale*Plein jour*Indemne,Blessé*1962,2009*2012-05-26T16:30:00+00:00*48.853682*2.366307
+201200053912*Paris*Île-de-France*Paris-4e-arrondissement*21*06*2012*20:15*16, RUE SAINT MERRI*Normale*Plein jour*Indemne,Blessé*1989,1997*2012-06-21T18:15:00+00:00*48.859467*2.352787
+201200053949*Paris*Île-de-France*Paris-4e-arrondissement*03*10*2012*11:10*RUE SAINT ANTOINE*Normale*Plein jour*Indemne,Blessé*1964,1985*2012-10-03T09:10:00+00:00*48.854326*2.363957
+201200053952*Paris*Île-de-France*Paris-4e-arrondissement*06*10*2012*14:50*2, PLACE DU CHATELET*Pluie légère*Plein jour*Blessé*1980*2012-10-06T12:50:00+00:00*48.857342*2.347787
+201200053986*Paris*Île-de-France*Paris-4e-arrondissement*17*12*2012*08:30*QUAI HENRI IV*Temps couvert*Plein jour*Blessé,Indemne*1980,1987*2012-12-17T07:30:00+00:00*48.848577*2.363198
+201200053991*Paris*Île-de-France*Paris-4e-arrondissement*24*12*2012*12:30*6, RUE DU RENARD*Normale*Plein jour*Indemne,Blessé*1976,1956*2012-12-24T11:30:00+00:00*48.858105*2.351944
+201200054047*Paris*Île-de-France*Paris-5e-arrondissement*30*04*2012*08:00*17, BOULEVARD SAINT MICH*Normale*Plein jour*Blessé,Indemne*1995,1955*2012-04-30T06:00:00+00:00*48.851734*2.343559
+201200054040*Paris*Île-de-France*Paris-5e-arrondissement*11*04*2012*00:30*51, BOULEVARD SAINT MICH*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1984,1983*2012-04-10T22:30:00+00:00*48.848381*2.341713
+201200054064*Paris*Île-de-France*Paris-5e-arrondissement*31*05*2012*21:15*34 bis, BOULEVARD SAINT*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1987,1988*2012-05-31T19:15:00+00:00*48.839074*2.358372
+201200054085*Paris*Île-de-France*Paris-5e-arrondissement*18*07*2012*13:40*03, QUAI SAINT BERNARD*Normale*Plein jour*Indemne,Indemne,Blessé*1979,1967,1967*2012-07-18T11:40:00+00:00*48.84733*2.360193
+201200054102*Paris*Île-de-France*Paris-5e-arrondissement*16*09*2012*13:15*RUE SAINT JACQUES*Normale*Plein jour*Indemne,Blessé*1936,1955*2012-09-16T11:15:00+00:00*48.844609*2.342241
+201200054105*Paris*Île-de-France*Paris-5e-arrondissement*20*09*2012*07:30*38, RUE GAY LUSSAC*Normale*Plein jour*Indemne,Blessé*1990,1993*2012-09-20T05:30:00+00:00*48.843905*2.342089
+201200054139*Paris*Île-de-France*Paris-5e-arrondissement*30*10*2012*23:50*101, RUE MONGE*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1978,1982*2012-10-30T22:50:00+00:00*48.840579*2.351991
+201200054230*Paris*Île-de-France*Paris-6e-arrondissement*07*05*2012*16:50*66, BOULEVARD SAINT MICH*Normale*Plein jour*Blessé,Indemne*1974,1931*2012-05-07T14:50:00+00:00*48.84378*2.338652
+201200054222*Paris*Île-de-France*Paris-6e-arrondissement*26*04*2012*13:30*BOULEVARD RASPAIL*Normale*Plein jour*Indemne,Blessé*1947,1991*2012-04-26T11:30:00+00:00*48.846501*2.3285
+201200054237*Paris*Île-de-France*Paris-6e-arrondissement*21*05*2012*22:30*28, RUE BONAPARTE*Pluie légère*Nuit avec éclairage public allumé*Blessé*1972*2012-05-21T20:30:00+00:00*48.855637*2.33396
+201200054252*Paris*Île-de-France*Paris-6e-arrondissement*21*06*2012*15:20*123, BOULEVARD SAINT GER*Pluie légère*Plein jour*Indemne,Blessé*1990,1988*2012-06-21T13:20:00+00:00*48.852796*2.336801
+201200054286*Paris*Île-de-France*Paris-6e-arrondissement*17*09*2012*15:20*56, RUE DE RENNES*Normale*Plein jour*Blessé,Indemne*1971,1966*2012-09-17T13:20:00+00:00*48.853039*2.332258
+201200054254*Paris*Île-de-France*Paris-6e-arrondissement*22*06*2012*16:10*26, RUE DU FOUR*Normale*Plein jour*Blessé*1964*2012-06-22T14:10:00+00:00*48.85269*2.333293
+201200054333*Paris*Île-de-France*Paris-6e-arrondissement*14*12*2012*17:45*133, RUE DE SEVRES*Pluie légère*Nuit avec éclairage public allumé*Blessé,Blessé*1990,1946*2012-12-14T16:45:00+00:00*48.849268*2.330883
+201200054336*Paris*Île-de-France*Paris-6e-arrondissement*22*12*2012*01:15*16, RUE SAINT SULPICE*Normale*Nuit avec éclairage public allumé*Blessé,Indemne,Blessé*1961,1990,1990*2012-12-22T00:15:00+00:00*48.851522*2.337181
+201200049021*Val-de-Marne*Île-de-France*Paris-12e-arrondissement*02*12*2012*16:45*A4*Normale*Plein jour*Blessé*1991*2012-12-02T15:45:00+00:00*48.83519*2.417559
+201200059343*Paris*Île-de-France*Paris-20e-arrondissement*08*12*2012*10:40*angle, RUE DE MENILMONTA*Temps couvert*Plein jour*Indemne,Blessé*1984,1981*2012-12-08T09:40:00+00:00*48.863367*2.397152
+201200059439*Paris*Île-de-France*Paris-20e-arrondissement*14*03*2012*19:06*BOULEVARD PERIPHERIQUE I*Normale*Crépuscule ou aube*Blessé,Indemne*1977,1986*2012-03-14T18:06:00+00:00*48.862605*2.396749
+201200059472*Paris*Île-de-France*Paris-9e-arrondissement*15*04*2012*09:56*73, RUE BLANCHE*Normale*Plein jour*Indemne,Blessé*1987,1984*2012-04-15T07:56:00+00:00*48.882694*2.331934
+201200059481*Paris*Île-de-France*Paris-8e-arrondissement*20*04*2012*19:30*AVENUE DES CHAMPS ELYSEE*Normale*Plein jour*Indemne,Blessé*1982,1972*2012-04-20T17:30:00+00:00*48.869588*2.317171
+201200059490*Paris*Île-de-France*Paris-12e-arrondissement*01*05*2012*13:40*BOULEVARD PERIPHERIQUE E*Normale*Plein jour*Blessé,Blessé,Indemne,Blessé*1979,1979,1971,1964*2012-05-01T11:40:00+00:00*48.833494*2.415411
+201200059510*Paris*Île-de-France*Paris-18e-arrondissement*14*05*2012*14:35*RUE CUSTINE*Normale*Plein jour*Indemne,Blessé*1973,1964*2012-05-14T12:35:00+00:00*48.888756*2.346327
+201200059536*Paris*Île-de-France*Paris-16e-arrondissement*04*06*2012*17:55*10, ROUTE DU CHAMP D ENT*Normale*Plein jour*Blessé*1995*2012-06-04T15:55:00+00:00*48.873473*2.253077
+201200059560*Paris*Île-de-France*Paris-17e-arrondissement*23*06*2012*15:35*PORTE D ASNIERES*Normale*Plein jour*Indemne,Blessé*1977,1970*2012-06-23T13:35:00+00:00*48.891227*2.302717
+201200059664*Paris*Île-de-France*Paris-20e-arrondissement*15*09*2012*10:45*10, RUE D AVRON*Normale*Plein jour*Blessé,Indemne*1969,1977*2012-09-15T08:45:00+00:00*48.851445*2.399557
+201200059684*Paris*Île-de-France*Paris-11e-arrondissement*02*10*2012*00:15*RUE DE MALTE*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1984,1968*2012-10-01T22:15:00+00:00*48.86563*2.367713
+201200059736*Paris*Île-de-France*Paris-13e-arrondissement*09*11*2012*16:00*BOULEVARD PERIPHERIQUE E*Pluie légère*Plein jour*Blessé,Indemne,Indemne,Indemne*1984,1984,1972,1969*2012-11-09T15:00:00+00:00*48.8302*2.365001
+201200059740*Paris*Île-de-France*Paris-16e-arrondissement*13*11*2012*18:08*RUE DE MAGDEBOURG*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1970,1945*2012-11-13T17:08:00+00:00*48.864575*2.289532
+201200059784*Paris*Île-de-France*Paris-17e-arrondissement*27*12*2012*17:35*RUE GUSTAVE CHARPENTIER*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1966,1974*2012-12-27T16:35:00+00:00*48.881134*2.281343
+201200059799*Paris*Île-de-France*Paris-13e-arrondissement*07*01*2012*19:40*QUAI D IVRY*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1979,1986*2012-01-07T18:40:00+00:00*48.826085*2.387562
+201200059908*Paris*Île-de-France*Paris-17e-arrondissement*18*03*2012*05:55*PORTE MAILLOT*Normale*Crépuscule ou aube*Blessé,Blessé*1991,1985*2012-03-18T04:55:00+00:00*48.878577*2.283835
+201200059960*Paris*Île-de-France*Paris-16e-arrondissement*18*04*2012*18:30*PORTE DE PASSY*Temps couvert*Plein jour*Indemne,Blessé*1951,1971*2012-04-18T16:30:00+00:00*48.857306*2.263934
+201200059983*Paris*Île-de-France*Paris-14e-arrondissement*04*05*2012*05:50*BOULEVARD PERIPHERIQUE E*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1972,1959*2012-05-04T03:50:00+00:00*48.830108*2.323026
+201200059984*Paris*Île-de-France*Paris-19e-arrondissement*04*05*2012*12:30*PORTE DE LA VILLETTE*Normale*Plein jour*Blessé,Indemne*1980,1981*2012-05-04T10:30:00+00:00*48.898858*2.387222
+201200060001*Paris*Île-de-France*Paris-19e-arrondissement*11*05*2012*16:45*PORTE DE PANTIN*Normale*Plein jour*Blessé,Indemne*1967,1990*2012-05-11T14:45:00+00:00*48.890085*2.398738
+201200060009*Paris*Île-de-France*Paris-17e-arrondissement*15*05*2012*15:40*PORTE DE SAINT OUEN*Normale*Plein jour*Blessé,Indemne,Indemne,Indemne*1966,1987,1986,1986*2012-05-15T13:40:00+00:00*48.898641*2.329009
+201200060020*Paris*Île-de-France*Paris-16e-arrondissement*22*05*2012*00:59*BOULEVARD PERIPHERIQUE I*Normale*Nuit avec éclairage public allumé*Blessé,Blessé,Blessé*1988,1976,1988*2012-05-21T22:59:00+00:00*48.856305*2.267032
+201200060057*Paris*Île-de-France*Paris-19e-arrondissement*07*06*2012*20:40*PORTE DES LILAS*Normale*Crépuscule ou aube*Blessé,Indemne,Blessé,Indemne*1981,1947,1985,1983*2012-06-07T18:40:00+00:00*48.878207*2.409551
+201200060137*Paris*Île-de-France*Paris-18e-arrondissement*21*07*2012*18:45*PORTE DE CLIGNANCOURT*Normale*Plein jour*Blessé,Blessé,Indemne,Blessé*1990,1984,1990,1985*2012-07-21T16:45:00+00:00*48.898675*2.344117
+201200060225*Paris*Île-de-France*Paris-13e-arrondissement*18*09*2012*07:45*PORTE DE GENTILLY*Normale*Plein jour*Blessé*1983*2012-09-18T05:45:00+00:00*48.818641*2.365585
+201200060231*Paris*Île-de-France*Paris-15e-arrondissement*19*09*2012*14:30*ECHANGEUR ISSY*Normale*Plein jour*Blessé,Indemne*1985,1979*2012-09-19T12:30:00+00:00*48.832583*2.281219
+201200060254*Paris*Île-de-France*Paris-17e-arrondissement*29*09*2012*13:00*PORTE D ASNIERES*Normale*Plein jour*Indemne,Indemne,Blessé,Blessé*1986,1984,1963,1958*2012-09-29T11:00:00+00:00*48.891227*2.302717
+201200060285*Paris*Île-de-France*Paris-12e-arrondissement*15*10*2012*12:30*PORTE DE VINCENNES*Normale*Plein jour*Indemne,Indemne,Blessé,Indemne*1953,1979,1967,1953*2012-10-15T10:30:00+00:00*48.84648*2.4131
+201200060297*Paris*Île-de-France*Paris-14e-arrondissement*19*10*2012*10:45*PORTE D ORLEANS*Normale*Plein jour*Indemne,Indemne,Blessé,Blessé*1986,1963,1988,1980*2012-10-19T08:45:00+00:00*48.821705*2.325397
+201200060312*Paris*Île-de-France*Paris-20e-arrondissement*27*10*2012*02:29*PORTE DE BAGNOLET*Normale*Nuit avec éclairage public allumé*Blessé,Blessé,Indemne*1979,1987,1988*2012-10-27T00:29:00+00:00*48.864634*2.409619
+201200060316*Paris*Île-de-France*Paris-15e-arrondissement*29*10*2012*19:15*QUAI D ISSY LES MOULINEA*Normale*Nuit avec éclairage public allumé*Indemne,Blessé,Indemne*1990,1983,1959*2012-10-29T18:15:00+00:00*48.838801*2.269173
+201200060320*Paris*Île-de-France*Paris-17e-arrondissement*31*10*2012*13:20*PORTE D ASNIERES*Normale*Plein jour*Blessé,Indemne*1973,1983*2012-10-31T12:20:00+00:00*48.891227*2.302717
+201200060324*Paris*Île-de-France*Paris-20e-arrondissement*02*11*2012*14:00*PORTE DES LILAS*Normale*Plein jour*Indemne,Indemne,Blessé,Blessé*1967,1951,1986,1988*2012-11-02T13:00:00+00:00*48.877513*2.408217
+201200060351*Paris*Île-de-France*Paris-15e-arrondissement*12*11*2012*18:15*PORTE BRANCION*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1958,1976*2012-11-12T17:15:00+00:00*48.827297*2.301233
+201200060379*Paris*Île-de-France*Paris-16e-arrondissement*23*11*2012*17:55*ECHANGEUR AUTEUIL*Pluie légère*Nuit avec éclairage public allumé*Indemne,Blessé*1964,1971*2012-11-23T16:55:00+00:00*48.847766*2.264925
+201200060414*Paris*Île-de-France*Paris-14e-arrondissement*14*12*2012*18:00*PORTE DE CHATILLON*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1989,1979*2012-12-14T17:00:00+00:00*48.823347*2.316524
+201200054381*Paris*Île-de-France*Paris-7e-arrondissement*21*03*2012*10:55*199, BOULEVARD SAINT GER*Normale*Plein jour*Blessé,Indemne*1941,1977*2012-03-21T09:55:00+00:00*48.855263*2.32726
+201200054419*Paris*Île-de-France*Paris-7e-arrondissement*29*05*2012*20:00*1, AVENUE DE TOURVILLE*Normale*Plein jour*Blessé,Indemne*1962,1980*2012-05-29T18:00:00+00:00*48.853552*2.314161
+201200054487*Paris*Île-de-France*Paris-7e-arrondissement*28*09*2012*17:05*QUAI D ORSAY*Normale*Plein jour*Blessé,Indemne*1953,1970*2012-09-28T15:05:00+00:00*48.862275*2.307205
+201200054534*Paris*Île-de-France*Paris-7e-arrondissement*23*11*2012*12:50*AVENUE DE SAXE*Pluie légère*Plein jour*Blessé*1992*2012-11-23T11:50:00+00:00*48.848528*2.310091
+201200054550*Paris*Île-de-France*Paris-7e-arrondissement*20*12*2012*22:50*RUE DE SEVRES*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1976,1960*2012-12-20T21:50:00+00:00*48.854665*2.312078
+201200054592*Paris*Île-de-France*Paris-8e-arrondissement*30*01*2012*11:30*PLACE DE LA CONCORDE*Normale*Plein jour*Indemne,Indemne,Blessé*1979,1947,2005*2012-01-30T10:30:00+00:00*48.867065*2.321877
+201200054671*Paris*Île-de-France*Paris-8e-arrondissement*24*04*2012*20:30*COURS ALBERT 1ER*Normale*Plein jour*Blessé,Blessé,Indemne,Blessé,Indemne,Blessé,Blessé,Blessé*1975,1953,1965,1956,1952,1940,1973,1980*2012-04-24T18:30:00+00:00*48.864909*2.306255
+201200054615*Paris*Île-de-France*Paris-8e-arrondissement*22*02*2012*21:35*12, RUE DE LA TREMOILLE*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1958,1988*2012-02-22T20:35:00+00:00*48.866749*2.302559
+201200054677*Paris*Île-de-France*Paris-8e-arrondissement*01*05*2012*09:20*AVENUE DE FRIEDLAND*Normale*Plein jour*Blessé,Blessé*1964,1981*2012-05-01T07:20:00+00:00*48.874429*2.300964
+201200054685*Paris*Île-de-France*Paris-8e-arrondissement*08*05*2012*13:20*91, AVENUE DES CHAMPS EL*Temps couvert*Plein jour*Indemne,Blessé*1989,1986*2012-05-08T11:20:00+00:00*48.871167*2.302109
+201200054690*Paris*Île-de-France*Paris-8e-arrondissement*11*05*2012*23:45*AVENUE DE FRIEDLAND*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1991,1984*2012-05-11T21:45:00+00:00*48.874429*2.300964
+201200054708*Paris*Île-de-France*Paris-8e-arrondissement*24*05*2012*19:30*COURS LA REINE*Normale*Plein jour*Blessé,Blessé,Indemne*1994,1991,1969*2012-05-24T17:30:00+00:00*48.865177*2.31774
+201200054752*Paris*Île-de-France*Paris-8e-arrondissement*29*06*2012*20:41*PLACE DE LA CONCORDE*Normale*Nuit avec éclairage public allumé*Blessé*1989*2012-06-29T18:41:00+00:00*48.867065*2.321877
+201200054816*Paris*Île-de-France*Paris-8e-arrondissement*23*08*2012*09:20*2, RUE BALZAC*Normale*Plein jour*Blessé*1989*2012-08-23T07:20:00+00:00*48.872882*2.300035
+201200054837*Paris*Île-de-France*Paris-8e-arrondissement*09*09*2012*23:15*ROND POINT CHAMPS ELYSEE*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1973,1990*2012-09-09T21:15:00+00:00*48.869717*2.309772
+201200054862*Paris*Île-de-France*Paris-8e-arrondissement*26*09*2012*20:10*95, AVENUE DES CHAMPS EL*Pluie forte*Nuit avec éclairage public allumé*Blessé*1986*2012-09-26T18:10:00+00:00*48.871311*2.301659
+201200054917*Paris*Île-de-France*Paris-8e-arrondissement*28*10*2012*23:35*6, PLACE SAINT AUGUSTIN*Pluie légère*Nuit avec éclairage public allumé*Blessé,Indemne,Indemne,Blessé,Blessé*1990,1954,1991,1983,1982*2012-10-28T22:35:00+00:00*48.8752*2.320053
+201200054929*Paris*Île-de-France*Paris-8e-arrondissement*08*11*2012*17:45*20, RUE DU FAUBOURG SAIN*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1959,1929*2012-11-08T16:45:00+00:00*48.868829*2.322098
+201200055004*Paris*Île-de-France*Paris-8e-arrondissement*21*12*2012*12:15*14, AVENUE MONTAIGNE*Normale*Plein jour*Indemne,Blessé*1986,1952*2012-12-21T11:15:00+00:00*48.865917*2.304516
+201200055068*Paris*Île-de-France*Paris-9e-arrondissement*23*03*2012*13:05*56, RUE LA BRUYERE*Normale*Plein jour*Blessé,Indemne*1982,1989*2012-03-23T12:05:00+00:00*48.880051*2.331722
+201200055081*Paris*Île-de-France*Paris-9e-arrondissement*14*04*2012*13:25*68, RUE DE CLICHY*Normale*Plein jour*Indemne,Indemne,Blessé*1973,1952,1999*2012-04-14T11:25:00+00:00*48.88207*2.328204
+201200055153*Paris*Île-de-France*Paris-9e-arrondissement*11*09*2012*16:00*54, RUE DE CLICHY*Pluie forte*Plein jour*Blessé,Indemne*1991,1972*2012-09-11T14:00:00+00:00*48.880606*2.32888
+201200055154*Paris*Île-de-France*Paris-9e-arrondissement*11*09*2012*19:30*17, RUE VICTOR MASSE*Normale*Plein jour*Indemne,Blessé*1948,1978*2012-09-11T17:30:00+00:00*48.880675*2.338685
+201200055190*Paris*Île-de-France*Paris-9e-arrondissement*13*11*2012*18:10*41, RUE DU FAUBOURG POIS*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1985,1952*2012-11-13T17:10:00+00:00*48.873939*2.347841
+201200055221*Paris*Île-de-France*Paris-10e-arrondissement*16*01*2012*07:35*03, RUE DU HUIT MAI 1945*Normale*Crépuscule ou aube*Blessé,Indemne*1969,1977*2012-01-16T06:35:00+00:00*48.876163*2.357469
+201200055274*Paris*Île-de-France*Paris-10e-arrondissement*23*03*2012*17:30*29 bis, BOULEVARD DE MAG*Normale*Plein jour*Indemne,Blessé,Indemne*1991,1991,1988*2012-03-23T16:30:00+00:00*48.871205*2.360356
+201200055290*Paris*Île-de-France*Paris-10e-arrondissement*13*04*2012*10:35*170, RUE LA FAYETTE*Normale*Plein jour*Blessé,Indemne*1982,1957*2012-04-13T08:35:00+00:00*48.879856*2.359383
+201200055303*Paris*Île-de-France*Paris-10e-arrondissement*24*04*2012*15:15*32, BOULEVARD DE BONNE N*Pluie forte*Plein jour*Blessé*1947*2012-04-24T13:15:00+00:00*48.870428*2.350449
+201200055306*Paris*Île-de-France*Paris-10e-arrondissement*28*04*2012*17:50*151, AVENUE PARMENTIER*Temps couvert*Plein jour*Indemne,Blessé*1982,1985*2012-04-28T15:50:00+00:00*48.871296*2.370015
+201200055332*Paris*Île-de-France*Paris-10e-arrondissement*08*06*2012*10:20*41, RUE DU FAUBOURG SAIN*Temps couvert*Plein jour*Blessé,Indemne*1982,1964*2012-06-08T08:20:00+00:00*48.871307*2.353357
+201200055361*Paris*Île-de-France*Paris-10e-arrondissement*01*07*2012*21:50*QUAI DE VALMY*Normale*Crépuscule ou aube*Indemne,Blessé*1962,1978*2012-07-01T19:50:00+00:00*48.876988*2.364734
+201200055386*Paris*Île-de-France*Paris-10e-arrondissement*26*07*2012*23:30*3, BOULEVARD DE STRASBOU*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1988,1951*2012-07-26T21:30:00+00:00*48.869663*2.354215
+201200055422*Paris*Île-de-France*Paris-10e-arrondissement*11*09*2012*13:25*1-3, PLACE DE LA BATAILL*Pluie légère*Plein jour*Blessé,Indemne*1985,1940*2012-09-11T11:25:00+00:00*48.87609*2.362272
+201200055438*Paris*Île-de-France*Paris-10e-arrondissement*03*10*2012*18:05*170, AVENUE PARMENTIER*Pluie légère*Plein jour*Indemne,Blessé*1943,1988*2012-10-03T16:05:00+00:00*48.871853*2.369852
+201200055492*Paris*Île-de-France*Paris-10e-arrondissement*21*11*2012*17:00*181, RUE LA FAYETTE*Normale*Crépuscule ou aube*Indemne,Blessé,Blessé*1981,2000,1982*2012-11-21T16:00:00+00:00*48.880182*2.359966
+201200055519*Paris*Île-de-France*Paris-10e-arrondissement*23*12*2012*20:10*19, BOULEVARD DE LA CHAP*Normale*Nuit avec éclairage public allumé*Blessé*1990*2012-12-23T19:10:00+00:00*48.884206*2.361737
+201200055554*Paris*Île-de-France*Paris-11e-arrondissement*04*02*2012*14:10*48, AVENUE DE LA REPUBLI*Normale*Crépuscule ou aube*Blessé,Indemne*1984,1961*2012-02-04T13:10:00+00:00*48.865167*2.374271
+201200055561*Paris*Île-de-France*Paris-11e-arrondissement*12*02*2012*00:35*65, RUE DE LA ROQUETTE*Normale*Nuit avec éclairage public allumé*Blessé*1976*2012-02-11T23:35:00+00:00*48.856303*2.376334
+201200055587*Paris*Île-de-France*Paris-11e-arrondissement*12*03*2012*13:00*119, RUE DE MONTREUIL*Normale*Plein jour*Blessé,Indemne*1951,1967*2012-03-12T12:00:00+00:00*48.851046*2.396337
+201200055648*Paris*Île-de-France*Paris-11e-arrondissement*22*04*2012*22:05*101, AVENUE DE LA REPUBL*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1951,1983*2012-04-22T20:05:00+00:00*48.863526*2.384525
+201200055681*Paris*Île-de-France*Paris-11e-arrondissement*25*05*2012*00:30*18, BOULEVARD BEAUMARCHA*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1988,1980*2012-05-24T22:30:00+00:00*48.855212*2.368892
+201200055682*Paris*Île-de-France*Paris-11e-arrondissement*26*05*2012*01:40*166, RUE DE LA ROQUETTE*Normale*Nuit avec éclairage public allumé*Blessé*1982*2012-05-25T23:40:00+00:00*48.858748*2.384896
+201200055813*Paris*Île-de-France*Paris-11e-arrondissement*04*10*2012*20:55*138, RUE DE LA ROQUETTE*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1986,1938*2012-10-04T18:55:00+00:00*48.857791*2.381149
+201200055831*Paris*Île-de-France*Paris-11e-arrondissement*21*10*2012*01:35*64, AVENUE PHILIPPE AUGU*Pluie légère*Nuit avec éclairage public allumé*Blessé*1993*2012-10-20T23:35:00+00:00*48.853734*2.392827
+201200055898*Paris*Île-de-France*Paris-11e-arrondissement*12*12*2012*12:30*1, AVENUE DE LA REPUBLIQ*Normale*Plein jour*Blessé,Indemne*1969,1955*2012-12-12T11:30:00+00:00*48.867013*2.366115
+201200055920*Paris*Île-de-France*Paris-12e-arrondissement*01*01*2012*20:30*57, RUE DE REUILLY*Pluie légère*Nuit avec éclairage public allumé*Blessé,Indemne,Blessé*1974,1984,1963*2012-01-01T19:30:00+00:00*48.845778*2.388551
+201200055933*Paris*Île-de-France*Paris-12e-arrondissement*17*01*2012*09:00*AVENUE DE GRAVELLE*Normale*Plein jour*Blessé,Blessé*1941,1975*2012-01-17T08:00:00+00:00*48.824796*2.414597
+201200055963*Paris*Île-de-France*Paris-12e-arrondissement*07*02*2012*08:45*37, AVENUE DAUMESNIL*Normale*Plein jour*Blessé,Indemne*1986,1953*2012-02-07T07:45:00+00:00*48.847697*2.374637
+201200056011*Paris*Île-de-France*Paris-12e-arrondissement*17*03*2012*05:05*BOULEVARD SOULT*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1969,1968*2012-03-17T04:05:00+00:00*48.840923*2.409048
+201200056019*Paris*Île-de-France*Paris-12e-arrondissement*26*03*2012*15:56*98, QUAI DE LA RAPEE*Normale*Plein jour*Blessé,Indemne*1931,1958*2012-03-26T13:56:00+00:00*48.846106*2.36746
+201200056029*Paris*Île-de-France*Paris-12e-arrondissement*05*04*2012*08:55*56, RUE DU FAUBOURG SAIN*Normale*Plein jour*Blessé,Indemne*1980,1962*2012-04-05T06:55:00+00:00*48.851936*2.37312
+201200056042*Paris*Île-de-France*Paris-12e-arrondissement*14*04*2012*17:40*RUE DU FAUBOURG SAINT AN*Pluie légère*Plein jour*Blessé,Indemne*1977,1955*2012-04-14T15:40:00+00:00*48.850277*2.38148
+201200056065*Paris*Île-de-France*Paris-12e-arrondissement*10*05*2012*23:50*BOULEVARD DE REUILLY*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1976,1983*2012-05-10T21:50:00+00:00*48.839239*2.394639
+201200056081*Paris*Île-de-France*Paris-12e-arrondissement*23*05*2012*15:20*BOULEVARD DE LA GUYANE*Normale*Plein jour*Blessé,Indemne,Blessé,Blessé*1951,1974,1955,1975*2012-05-23T13:20:00+00:00*48.8409*2.414152
+201200056090*Paris*Île-de-France*Paris-12e-arrondissement*30*05*2012*08:00*AVENUE DE NOGENT*Normale*Plein jour*Blessé,Indemne*1989,1957*2012-05-30T06:00:00+00:00*48.839131*2.459594
+201200056177*Paris*Île-de-France*Paris-12e-arrondissement*08*08*2012*18:00*QUAI DE LA RAPEE*Normale*Plein jour*Indemne,Blessé,Indemne*1976,1936,1967*2012-08-08T16:00:00+00:00*48.843207*2.371326
+201200056250*Paris*Île-de-France*Paris-12e-arrondissement*04*10*2012*23:10*2, AVENUE DU TRONE*Autre*Nuit avec éclairage public allumé*Blessé,Indemne*1927,1957*2012-10-04T21:10:00+00:00*48.847843*2.397554
+201200056267*Paris*Île-de-France*Paris-12e-arrondissement*12*10*2012*08:20*264, AVENUE DAUMESNIL*Normale*Plein jour*Indemne,Blessé*1968,1988*2012-10-12T06:20:00+00:00*48.836232*2.404081
+201200056303*Paris*Île-de-France*Paris-12e-arrondissement*13*11*2012*11:45*AVENUE DAUMESNIL*Normale*Plein jour*Blessé,Indemne*1958,1985*2012-11-13T10:45:00+00:00*48.84131*2.388798
+201200056342*Paris*Île-de-France*Paris-12e-arrondissement*10*12*2012*13:35*91, AVENUE DU DOCTEUR AR*Normale*Plein jour*Blessé,Indemne*1997,1929*2012-12-10T12:35:00+00:00*48.84701*2.406071
+201200056122*Paris*Île-de-France*Paris-12e-arrondissement*25*06*2012*17:10*103 bis, RUE DE REUILLY*Normale*Plein jour*Blessé,Indemne*1993,1967*2012-06-25T15:10:00+00:00*48.842827*2.392122
+201200056125*Paris*Île-de-France*Paris-12e-arrondissement*27*06*2012*15:00*QUAI DE LA RAPEE*Normale*Plein jour*Indemne,Blessé,Blessé*1978,1980,1973*2012-06-27T13:00:00+00:00*48.843207*2.371326
+201200056370*Paris*Île-de-France*Paris-12e-arrondissement*23*12*2012*17:15*PLACE DU BATAILLON DU PA*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1982,1946*2012-12-23T16:15:00+00:00*48.840402*2.379978
+201200056414*Paris*Île-de-France*Paris-13e-arrondissement*18*02*2012*07:50*44, BOULEVARD DE L HOPIT*Temps couvert*Plein jour*Blessé,Indemne*1986,1958*2012-02-18T06:50:00+00:00*48.839407*2.361046
+201200056436*Paris*Île-de-France*Paris-5e-arrondissement*21*03*2012*11:40*74, BOULEVARD DE PORT RO*Normale*Plein jour*Blessé,Indemne*1978,1924*2012-03-21T10:40:00+00:00*48.838373*2.34298
+201200056470*Paris*Île-de-France*Paris-13e-arrondissement*29*04*2012*01:05*QUAI D AUSTERLITZ*Pluie légère*Nuit avec éclairage public allumé*Blessé,Indemne*1959,1983*2012-04-28T23:05:00+00:00*48.839986*2.370466
+201200056141*Paris*Île-de-France*Paris-12e-arrondissement*06*07*2012*12:00*BOULEVARD DE BERCY*Normale*Plein jour*Blessé,Indemne*1946,1980*2012-07-06T10:00:00+00:00*48.839775*2.383227
+201200056485*Paris*Île-de-France*Paris-13e-arrondissement*15*05*2012*12:30*80, BOULEVARD VINCENT AU*Pluie légère*Plein jour*Blessé,Blessé*1949,1953*2012-05-15T10:30:00+00:00*48.834087*2.364799
+201200056498*Paris*Île-de-France*Paris-13e-arrondissement*27*05*2012*13:50*QUAI FRANCOIS MAURIAC*Normale*Plein jour*Indemne,Blessé*1984,1971*2012-05-27T11:50:00+00:00*48.833091*2.378705
+201200056512*Paris*Île-de-France*Paris-13e-arrondissement*07*06*2012*16:40*5, PLACE D ITALIE*Normale*Plein jour*Indemne,Blessé*1988,1978*2012-06-07T14:40:00+00:00*48.832012*2.356572
+201200056528*Paris*Île-de-France*Paris-13e-arrondissement*21*06*2012*14:00*146, BOULEVARD DE L HOPI*Normale*Plein jour*Indemne,Blessé,Indemne*1980,1978,1975*2012-06-21T12:00:00+00:00*48.8302*2.365001
+201200056551*Paris*Île-de-France*Paris-5e-arrondissement*20*07*2012*18:55*5, BOULEVARD DE L HOPITA*Normale*Plein jour*Blessé,Indemne,Indemne*1976,1971,1981*2012-07-20T16:55:00+00:00*48.841695*2.362752
+201200056592*Paris*Île-de-France*Paris-13e-arrondissement*30*08*2012*01:30*163, AVENUE D ITALIE*Normale*Nuit avec éclairage public allumé*Blessé*1978*2012-08-29T23:30:00+00:00*48.819402*2.359672
+201200056649*Paris*Île-de-France*Paris-5e-arrondissement*16*10*2012*11:15*5 bis, BOULEVARD DE L HO*Normale*Plein jour*Indemne,Blessé*1982,1974*2012-10-16T09:15:00+00:00*48.845277*2.35058
+201200056700*Paris*Île-de-France*Paris-13e-arrondissement*03*12*2012*17:15*84, BOULEVARD ARAGO*Normale*Nuit sans éclairage public*Blessé,Indemne*1958,1942*2012-12-03T16:15:00+00:00*48.835342*2.346645
+201200056726*Paris*Île-de-France*Paris-13e-arrondissement*21*12*2012*23:05*07, RUE DE SAINTE HELENE*Normale*Nuit avec éclairage public allumé*Blessé,Blessé,Blessé*1992,1984,1995*2012-12-21T22:05:00+00:00*48.818568*2.352439
+201200056791*Paris*Île-de-France*Paris-14e-arrondissement*23*03*2012*17:05*18, RUE NANSOUTY*Normale*Plein jour*Blessé,Indemne*1971,1933*2012-03-23T16:05:00+00:00*48.822725*2.335105
+201200056811*Paris*Île-de-France*Paris-14e-arrondissement*11*04*2012*17:25*45, RUE D ALESIA*Temps couvert*Plein jour*Blessé,Indemne*1955,1965*2012-04-11T15:25:00+00:00*48.827711*2.331366
+201200056873*Paris*Île-de-France*Paris-14e-arrondissement*19*06*2012*17:40*187, BOULEVARD BRUNE*Normale*Plein jour*Blessé,Indemne*1958,1966*2012-06-19T15:40:00+00:00*48.823672*2.324007
+201200056893*Paris*Île-de-France*Paris-14e-arrondissement*11*07*2012*08:40*81, BOULEVARD BRUNE*Normale*Plein jour*Blessé,Indemne*1986,1987*2012-07-11T06:40:00+00:00*48.826165*2.313188
+201200056950*Paris*Île-de-France*Paris-14e-arrondissement*30*09*2012*20:30*32, RUE DE L OUEST*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1963,1992*2012-09-30T18:30:00+00:00*48.836594*2.320271
+201200056969*Paris*Île-de-France*Paris-14e-arrondissement*17*10*2012*10:15*150, AVENUE DU MAINE*Temps couvert*Plein jour*Indemne,Blessé*1978,1946*2012-10-17T08:15:00+00:00*48.83404*2.324081
+201200057034*Paris*Île-de-France*Paris-14e-arrondissement*30*12*2012*20:13*33, AVENUE REILLE*Normale*Nuit avec éclairage public allumé*Blessé*1995*2012-12-30T19:13:00+00:00*48.823995*2.335123
+201200057037*Paris*Île-de-France*Paris-15e-arrondissement*06*01*2012*08:30*1, AVENUE DE LA PORTE DE*Normale*Plein jour*Blessé,Indemne*1959,1975*2012-01-06T07:30:00+00:00*48.835641*2.27826
+201200057087*Paris*Île-de-France*Paris-15e-arrondissement*05*03*2012*16:45*24, RUE DE DANTZIG*Normale*Plein jour*Indemne,Blessé*1992,1930*2012-03-05T15:45:00+00:00*48.834063*2.299238
+201200057120*Paris*Île-de-France*Paris-15e-arrondissement*12*04*2012*18:00*66, RUE DU THEATRE*Normale*Plein jour*Blessé,Indemne*1996,1973*2012-04-12T16:00:00+00:00*48.847913*2.290464
+201200057211*Paris*Île-de-France*Paris-15e-arrondissement*08*07*2012*00:01*BOULEVARD DE GRENELLE*Pluie forte*Nuit avec éclairage public allumé*Indemne,Blessé*1948,1963*2012-07-07T22:01:00+00:00*48.850542*2.29395
+201200057175*Paris*Île-de-France*Paris-15e-arrondissement*12*06*2012*10:10*, PLACE CHARLES MICHELS*Pluie légère*Plein jour*Blessé,Indemne*1995,1971*2012-06-12T08:10:00+00:00*48.846756*2.285772
+201200057221*Paris*Île-de-France*Paris-15e-arrondissement*24*07*2012*19:40*38, BOULEVARD DU MONTPAR*Normale*Plein jour*Indemne,Blessé,Indemne*1981,1945,1962*2012-07-24T17:40:00+00:00*48.845121*2.31955
+201200057285*Paris*Île-de-France*Paris-15e-arrondissement*02*10*2012*11:20*74, RUE DE VOUILLE*Normale*Plein jour*Indemne,Blessé*1980,1983*2012-10-02T09:20:00+00:00*48.834298*2.306251
+201200057308*Paris*Île-de-France*Paris-15e-arrondissement*27*10*2012*19:55*92, RUE DE L ABBE GROULT*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1949,1988*2012-10-27T17:55:00+00:00*48.83787*2.298989
+201200057352*Paris*Île-de-France*Paris-15e-arrondissement*15*12*2012*18:00*28, RUE BRANCION*Pluie légère*Nuit avec éclairage public allumé*Blessé,Indemne*2001,1979*2012-12-15T17:00:00+00:00*48.831914*2.302955
+201200057354*Paris*Île-de-France*Paris-15e-arrondissement*16*12*2012*12:30*RUE LOUIS VICAT*Normale*Plein jour*Blessé,Indemne*1981,1993*2012-12-16T11:30:00+00:00*48.826351*2.295953
+201200057394*Paris*Île-de-France*Paris-16e-arrondissement*18*01*2012*16:30*PLACE DE LA PORTE DE SAI*Pluie légère*Plein jour*Blessé,Indemne,Indemne*1972,1985,1959*2012-01-18T15:30:00+00:00*48.838366*2.257652
+201200057417*Paris*Île-de-France*Paris-16e-arrondissement*01*02*2012*09:15*77, BOULEVARD LANNES*Normale*Plein jour*Blessé,Blessé*1947,1960*2012-02-01T08:15:00+00:00*48.863332*2.269038
+201200057424*Paris*Île-de-France*Paris-16e-arrondissement*07*02*2012*09:30*49, AVENUE DE LA GRANDE*Normale*Plein jour*Blessé,Indemne*1953,1988*2012-02-07T08:30:00+00:00*48.875509*2.28846
+201200057460*Paris*Île-de-France*Paris-16e-arrondissement*10*03*2012*10:40*AVENUE FOCH*Temps couvert*Plein jour*Blessé,Indemne*1966,1965*2012-03-10T09:40:00+00:00*48.87326*2.284752
+201200057465*Paris*Île-de-France*Paris-16e-arrondissement*14*03*2012*15:00*73, RUE DE L ASSOMPTION*Normale*Plein jour*Blessé,Indemne*1992,1963*2012-03-14T14:00:00+00:00*48.855232*2.267203
+201200057467*Paris*Île-de-France*Paris-16e-arrondissement*16*03*2012*06:55*70, AVENUE PAUL DOUMER*Normale*Plein jour*Indemne,Blessé*1992,1952*2012-03-16T05:55:00+00:00*48.85985*2.279067
+201200057517*Paris*Île-de-France*Paris-16e-arrondissement*14*04*2012*06:40*XVI-10155, AVENUE EDOUAR*Normale*Plein jour*Blessé*1989*2012-04-14T04:40:00+00:00*48.856305*2.267032
+201200057530*Paris*Île-de-France*Paris-16e-arrondissement*24*04*2012*14:00*78, RUE MICHEL ANGE*Pluie légère*Plein jour*Blessé,Indemne*1963,1941*2012-04-24T12:00:00+00:00*48.841912*2.259012
+201200057535*Paris*Île-de-France*Paris-16e-arrondissement*27*04*2012*15:20*AVENUE D IENA*Normale*Plein jour*Blessé,Indemne*1960,1969*2012-04-27T13:20:00+00:00*48.868457*2.295448
+201200057628*Paris*Île-de-France*Paris-16e-arrondissement*30*06*2012*01:25*RUE HENRY DE LA VAULX*Normale*Nuit avec éclairage public allumé*Blessé*1993*2012-06-29T23:25:00+00:00*48.834943*2.258859
+201200057657*Paris*Île-de-France*Paris-16e-arrondissement*13*07*2012*23:05*PLACE DE VARSOVIE*Pluie légère*Nuit avec éclairage public allumé*Indemne,Blessé,Indemne*1985,1999,1967*2012-07-13T21:05:00+00:00*48.859955*2.290031
+201200057662*Paris*Île-de-France*Paris-16e-arrondissement*16*07*2012*16:30*CHEMIN DE CEINTURE DU LA*Normale*Plein jour*Blessé*1994*2012-07-16T14:30:00+00:00*48.866603*2.261552
+201200057804*Paris*Île-de-France*Paris-16e-arrondissement*24*10*2012*10:30*54, AVENUE RAYMOND POINC*Normale*Plein jour*Blessé*1958*2012-10-24T08:30:00+00:00*48.867062*2.286177
+201200057812*Paris*Île-de-France*Paris-16e-arrondissement*02*11*2012*10:20*6, PLACE DE LA PORTE DE*Pluie légère*Plein jour*Blessé,Indemne*1985,1947*2012-11-02T09:20:00+00:00*48.857306*2.263934
+201200057827*Paris*Île-de-France*Paris-16e-arrondissement*09*11*2012*20:50*11, BOULEVARD MURAT*Pluie légère*Nuit avec éclairage public allumé*Blessé,Indemne,Blessé*1986,1992,1987*2012-11-09T19:50:00+00:00*48.846838*2.258556
+201200057846*Paris*Île-de-France*Paris-16e-arrondissement*23*11*2012*19:40*1, PLACE D IENA*Pluie légère*Nuit avec éclairage public allumé*Indemne,Blessé*1971,1989*2012-11-23T18:40:00+00:00*48.864533*2.294298
+201200057855*Paris*Île-de-France*Paris-16e-arrondissement*30*11*2012*17:30*ROUTE DE LA MUETTE A NEU*Normale*Nuit avec éclairage public allumé*Blessé,Blessé,Indemne*1997,1997,1988*2012-11-30T16:30:00+00:00*48.878007*2.25972
+201200057866*Paris*Île-de-France*Paris-16e-arrondissement*06*12*2012*03:55*116, AVENUE DE VERSAILLE*Temps couvert*Nuit avec éclairage public allumé*Blessé*1976*2012-12-06T02:55:00+00:00*48.842782*2.268684
+201200057916*Paris*Île-de-France*Paris-17e-arrondissement*09*01*2012*18:30*25, RUE DE PRONY*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1979,1978*2012-01-09T17:30:00+00:00*48.881401*2.306298
+201200057934*Paris*Île-de-France*Paris-17e-arrondissement*19*01*2012*09:40*6, AVENUE DE LA PORTE PO*Normale*Plein jour*Blessé,Indemne*1969,1965*2012-01-19T08:40:00+00:00*48.897932*2.32346
+201200057942*Paris*Île-de-France*Paris-17e-arrondissement*27*01*2012*15:00*47, RUE DES BATIGNOLLES*Normale*Plein jour*Indemne,Blessé*1975,1980*2012-01-27T14:00:00+00:00*48.885662*2.319591
+201200057951*Paris*Île-de-France*Paris-17e-arrondissement*02*02*2012*09:45*100, AVENUE DE CLICHY*Normale*Plein jour*Indemne,Blessé*1974,1926*2012-02-02T08:45:00+00:00*48.889386*2.322534
+201200057997*Paris*Île-de-France*Paris-17e-arrondissement*14*03*2012*16:30*1, AVENUE DE LA PORTE D*Normale*Plein jour*Indemne,Blessé*1982,1965*2012-03-14T15:30:00+00:00*48.890155*2.303376
+201200058002*Paris*Île-de-France*Paris-17e-arrondissement*17*03*2012*11:25*BOULEVARD PERIPHERIQUE E*Temps couvert*Plein jour*Blessé,Indemne*1957,1980*2012-03-17T10:25:00+00:00*48.881668*2.289445
+201200058074*Paris*Île-de-France*Paris-17e-arrondissement*13*05*2012*12:38*185, RUE DE COURCELLES*Normale*Plein jour*Blessé,Indemne,Indemne*1997,1965,1967*2012-05-13T10:38:00+00:00*48.886662*2.295235
+201200058148*Paris*Île-de-France*Paris-17e-arrondissement*04*07*2012*17:20*RUE TRUFFAUT*Normale*Plein jour*Blessé,Indemne*1977,1965*2012-07-04T15:20:00+00:00*48.88676*2.319897
+201200058113*Paris*Île-de-France*Paris-17e-arrondissement*12*06*2012*16:05*90, AVENUE DE CLICHY*Normale*Plein jour*Blessé,Indemne*1979,1977*2012-06-12T14:05:00+00:00*48.88877*2.32346
+201200058166*Paris*Île-de-France*Paris-17e-arrondissement*20*07*2012*16:45*AVENUE DE LA PORTE DE CL*Normale*Plein jour*Blessé,Indemne*1980,1958*2012-07-20T14:45:00+00:00*48.895023*2.312009
+201200058168*Paris*Île-de-France*Paris-17e-arrondissement*23*07*2012*16:55*79, RUE DE COURCELLES*Normale*Plein jour*Indemne,Blessé*1972,1949*2012-07-23T14:55:00+00:00*48.879293*2.302916
+201200058184*Paris*Île-de-France*Paris-17e-arrondissement*13*08*2012*22:55*181 bis, AVENUE DE CLICH*Normale*Nuit avec éclairage public allumé*Indemne,Indemne,Blessé*1988,1988,1989*2012-08-13T20:55:00+00:00*48.887702*2.304844
+201200058224*Paris*Île-de-France*Paris-17e-arrondissement*20*09*2012*15:50*30, AVENUE DE LA PORTE D*Normale*Plein jour*Blessé,Blessé,Indemne*1995,1994,1953*2012-09-20T13:50:00+00:00*48.891227*2.302717
+201200058274*Paris*Île-de-France*Paris-17e-arrondissement*23*10*2012*16:30*15, RUE GUSTAVE CHARPENT*Normale*Plein jour*Indemne,Blessé*1954,1962*2012-10-23T14:30:00+00:00*48.881134*2.281343
+201200058077*Paris*Île-de-France*Paris-17e-arrondissement*15*05*2012*18:15*07, AVENUE DE SAINT OUEN*Normale*Plein jour*Blessé,Blessé*1984,1979*2012-05-15T16:15:00+00:00*48.892612*2.327239
+201200058278*Paris*Île-de-France*Paris-17e-arrondissement*25*10*2012*20:40*32, RUE LA CONDAMINE*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1980,1992*2012-10-25T18:40:00+00:00*48.886935*2.322926
+201200058331*Paris*Île-de-France*Paris-17e-arrondissement*20*12*2012*08:30*AVENUE DE LA PORTE D ASN*Pluie forte*Plein jour*Blessé*1965*2012-12-20T07:30:00+00:00*48.891227*2.302717
+201200058336*Paris*Île-de-France*Paris-17e-arrondissement*30*12*2012*19:00*8, RUE DE TOCQUEVILLE*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1958,1929*2012-12-30T18:00:00+00:00*48.882188*2.314377
+201200058338*Paris*Île-de-France*Paris-17e-arrondissement*31*12*2012*17:00*AVENUE DE LA PORTE DE CL*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1975,1967*2012-12-31T16:00:00+00:00*48.895023*2.312009
+201200058353*Paris*Île-de-France*Paris-18e-arrondissement*17*01*2012*08:30*74, BOULEVARD DE LA CHAP*Normale*Plein jour*Blessé*1960*2012-01-17T07:30:00+00:00*48.884276*2.354217
+201200058359*Paris*Île-de-France*Paris-18e-arrondissement*20*01*2012*14:45*121, RUE ORDENER*Pluie légère*Plein jour*Indemne,Blessé*1957,1952*2012-01-20T13:45:00+00:00*48.892817*2.342044
+201200058354*Paris*Île-de-France*Paris-18e-arrondissement*18*01*2012*11:15*4, AVENUE DE LA PORTE DE*Normale*Plein jour*Blessé,Indemne*1982,1986*2012-01-18T10:15:00+00:00*48.89824*2.337127
+201200058373*Paris*Île-de-France*Paris-18e-arrondissement*03*02*2012*16:15*12, AVENUE DE CLICHY*Normale*Plein jour*Blessé*1988*2012-02-03T15:15:00+00:00*48.884377*2.327206
+201200058394*Paris*Île-de-France*Paris-18e-arrondissement*07*03*2012*17:20*58, RUE CUSTINE*Pluie légère*Crépuscule ou aube*Indemne,Blessé*1970,1979*2012-03-07T16:20:00+00:00*48.889703*2.343664
+201200058447*Paris*Île-de-France*Paris-18e-arrondissement*03*05*2012*20:40*BOULEVARD NEY*Normale*Plein jour*Indemne,Indemne,Blessé*1974,1969,1984*2012-05-03T18:40:00+00:00*48.898272*2.348803
+201200058453*Paris*Île-de-France*Paris-18e-arrondissement*11*05*2012*12:30*132, BOULEVARD DE CLICHY*Normale*Plein jour*Blessé,Indemne*1964,1959*2012-05-11T10:30:00+00:00*48.884267*2.328549
+201200058462*Paris*Île-de-France*Paris-18e-arrondissement*26*05*2012*17:45*RUE DE JESSAINT*Normale*Plein jour*Indemne,Blessé*1983,1978*2012-05-26T15:45:00+00:00*48.885007*2.35597
+201200058480*Paris*Île-de-France*Paris-18e-arrondissement*09*06*2012*23:45*76, BOULEVARD BARBES*Pluie légère*Nuit avec éclairage public allumé*Blessé,Indemne,Blessé*1941,1975,1979*2012-06-09T21:45:00+00:00*48.889407*2.349811
+201200058490*Paris*Île-de-France*Paris-18e-arrondissement*20*06*2012*19:46*6, BOULEVARD NEY*Normale*Plein jour*Indemne,Blessé*1981,2002*2012-06-20T17:46:00+00:00*48.898764*2.369654
+201200058491*Paris*Île-de-France*Paris-18e-arrondissement*22*06*2012*11:40*BOULEVARD DE LA CHAPELLE*Normale*Plein jour*Indemne,Blessé*1980,1995*2012-06-22T09:40:00+00:00*48.884591*2.364725
+201200058499*Paris*Île-de-France*Paris-18e-arrondissement*26*06*2012*07:15*6, AVENUE DE LA PORTE DE*Pluie légère*Plein jour*Indemne,Blessé*1960,1973*2012-06-26T05:15:00+00:00*48.898344*2.337037
+201200058537*Paris*Île-de-France*Paris-18e-arrondissement*11*08*2012*12:15*221, RUE CHAMPIONNET*Normale*Plein jour*Indemne,Blessé*1978,1950*2012-08-11T10:15:00+00:00*48.89342*2.32969
+201200058602*Paris*Île-de-France*Paris-18e-arrondissement*19*10*2012*16:30*120, AVENUE DE SAINT OUE*Pluie légère*Plein jour*Blessé,Indemne*1979,1965*2012-10-19T14:30:00+00:00*48.892046*2.348679
+201200058660*Paris*Île-de-France*Paris-18e-arrondissement*10*12*2012*19:10*32, BOULEVARD DE LA CHAP*Normale*Nuit avec éclairage public allumé*Blessé,Blessé*1984,1987*2012-12-10T18:10:00+00:00*48.88461*2.361167
+201200058630*Paris*Île-de-France*Paris-18e-arrondissement*11*11*2012*12:10*08, RUE MARX DORMOY*Normale*Plein jour*Blessé,Indemne*1962,1969*2012-11-11T11:10:00+00:00*48.887296*2.35968
+201200058663*Paris*Île-de-France*Paris-17e-arrondissement*14*12*2012*11:00*75, AVENUE DE SAINT OUEN*Pluie légère*Plein jour*Indemne,Blessé*1950,1984*2012-12-14T10:00:00+00:00*48.892612*2.327239
+201200058667*Paris*Île-de-France*Paris-18e-arrondissement*16*12*2012*12:05*RUE LOUIS PASTEUR VALERY*Normale*Plein jour*Blessé,Indemne*2007,1982*2012-12-16T11:05:00+00:00*48.90018*2.332514
+201200058669*Paris*Île-de-France*Paris-18e-arrondissement*19*12*2012*09:25*140, BOULEVARD DE CLICHY*Normale*Plein jour*Indemne,Blessé*1988,1963*2012-12-19T08:25:00+00:00*48.883938*2.328034
+201200058707*Paris*Île-de-France*Paris-19e-arrondissement*13*02*2012*20:10*125, AVENUE SIMON BOLIVA*Pluie légère*Nuit sans éclairage public*Blessé,Indemne*1961,1974*2012-02-13T19:10:00+00:00*48.880752*2.373745
+201200058747*Paris*Île-de-France*Paris-19e-arrondissement*03*04*2012*13:15*5, RUE REBEVAL*Normale*Plein jour*Indemne,Indemne,Blessé*1954,1949,1954*2012-04-03T11:15:00+00:00*48.874219*2.376254
+201200058792*Paris*Île-de-France*Paris-20e-arrondissement*30*05*2012*23:40*184, RUE DE BELLEVILLE*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1978,1980*2012-05-30T21:40:00+00:00*48.875265*2.393261
+201200058793*Paris*Île-de-France*Paris-19e-arrondissement*31*05*2012*20:05*22, AVENUE DE LA PORTE D*Normale*Plein jour*Blessé,Indemne*1983,1975*2012-05-31T18:05:00+00:00*48.885952*2.398285
+201200058853*Paris*Île-de-France*Paris-19e-arrondissement*12*08*2012*03:45*16, AVENUE DE FLANDRE*Normale*Nuit avec éclairage public allumé*Blessé,Blessé*1996,1968*2012-08-12T01:45:00+00:00*48.88506*2.370285
+201200058948*Paris*Île-de-France*Paris-19e-arrondissement*27*11*2012*02:10*AVENUE DE LA PORTE DE PA*Normale*Nuit avec éclairage public allumé*Blessé*1987*2012-11-27T01:10:00+00:00*48.890085*2.398738
+201200058868*Paris*Île-de-France*Paris-19e-arrondissement*03*09*2012*16:15*42, AVENUE SIMON BOLIVAR*Temps couvert*Plein jour*Blessé,Blessé*1977,1957*2012-09-03T14:15:00+00:00*48.876551*2.378048
+201200058952*Paris*Île-de-France*Paris-19e-arrondissement*30*11*2012*15:00*21, SENTE DES DOREES*Normale*Plein jour*Blessé,Indemne*1996,1984*2012-11-30T14:00:00+00:00*48.8882*2.393291
+201200058992*Paris*Île-de-France*Paris-20e-arrondissement*13*01*2012*15:30*4, PLACE GAMBETTA*Normale*Plein jour*Blessé,Blessé*1980,1999*2012-01-13T14:30:00+00:00*48.864727*2.399018
+201200059019*Paris*Île-de-France*Paris-20e-arrondissement*03*02*2012*11:50*223, AVENUE GAMBETTA*Normale*Plein jour*Blessé,Indemne*1974,1980*2012-02-03T10:50:00+00:00*48.874257*2.405245
+201200059023*Paris*Île-de-France*Paris-20e-arrondissement*09*02*2012*12:30*39, RUE PLANCHAT*Temps éblouissant*Plein jour*Blessé,Indemne*1954,1977*2012-02-09T11:30:00+00:00*48.85415*2.397917
+201200059098*Paris*Île-de-France*Paris-20e-arrondissement*11*05*2012*10:35*9, RUE DES GATINES*Pluie légère*Plein jour*Indemne,Blessé,Blessé*1978,1932,1940*2012-05-11T08:35:00+00:00*48.865271*2.397559
+201200059142*Paris*Île-de-France*Paris-20e-arrondissement*18*06*2012*19:35*92, RUE PELLEPORT*Normale*Plein jour*Blessé*1992*2012-06-18T17:35:00+00:00*48.868204*2.40167
+201200059136*Paris*Île-de-France*Paris-20e-arrondissement*15*06*2012*09:15*RUE DES PYRENEES*Normale*Plein jour*Indemne,Blessé,Blessé*1943,1979,1983*2012-06-15T07:15:00+00:00*48.862605*2.396749
+201200059153*Paris*Île-de-France*Paris-20e-arrondissement*26*06*2012*09:15*2, AVENUE DE LA PORTE DE*Pluie légère*Plein jour*Blessé*1990*2012-06-26T07:15:00+00:00*48.870559*2.409098
+201200059158*Paris*Île-de-France*Paris-20e-arrondissement*29*06*2012*14:05*18, RUE BELGRAND*Normale*Plein jour*Blessé*1977*2012-06-29T12:05:00+00:00*48.864766*2.401209
+201200059178*Paris*Île-de-France*Paris-20e-arrondissement*15*07*2012*07:05*186, RUE PELLEPORT*Normale*Plein jour*Blessé*1993*2012-07-15T05:05:00+00:00*48.874946*2.398021
+201200059223*Paris*Île-de-France*Paris-20e-arrondissement*07*09*2012*19:40*2 ter, RUE JULIEN LACROI*Normale*Plein jour*Blessé*2001*2012-09-07T17:40:00+00:00*48.868184*2.386502
+201200059248*Paris*Île-de-France*Paris-20e-arrondissement*23*09*2012*23:00*199, RUE DES PYRENEES*Pluie forte*Nuit avec éclairage public allumé*Blessé,Indemne*1968,1972*2012-09-23T21:00:00+00:00*48.862206*2.399947
+201200059264*Paris*Île-de-France*Paris-20e-arrondissement*04*10*2012*09:35*135, AVENUE GAMBETTA*Pluie légère*Plein jour*Blessé*1997*2012-10-04T07:35:00+00:00*48.869022*2.401981
+201200059275*Paris*Île-de-France*Paris-20e-arrondissement*08*10*2012*18:00*RUE DU CLOS*Pluie légère*Plein jour*Blessé*1950*2012-10-08T16:00:00+00:00*48.863367*2.397152
+201200059294*Paris*Île-de-France*Paris-20e-arrondissement*23*10*2012*10:45*126, RUE DE MENILMONTANT*Normale*Plein jour*Indemne,Blessé*1955,1930*2012-10-23T08:45:00+00:00*48.87002*2.395448
+201200059318*Paris*Île-de-France*Paris-20e-arrondissement*14*11*2012*09:30*42 bis, RUE BELGRAND*Normale*Plein jour*Blessé,Indemne*1941,1989*2012-11-14T08:30:00+00:00*48.864587*2.404003
+201200050495*Paris*Île-de-France*Paris-13e-arrondissement*07*01*2012*01:45*AUTOROUTE A6B*Normale*Nuit sans éclairage public*Indemne,Blessé*1989,1990*2012-01-07T00:45:00+00:00*48.830193*2.365001
+201200053462*Paris*Île-de-France*Paris-1er-arrondissement*06*01*2012*06:45*5, RUE DE CASTIGLIONE*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1968,1972*2012-01-06T05:45:00+00:00*48.86608*2.327851
+201200053480*Paris*Île-de-France*Paris-1er-arrondissement*29*02*2012*20:00*132, RUE DE RIVOLI*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1984,1978*2012-02-29T19:00:00+00:00*48.860067*2.343796
+201200053515*Paris*Île-de-France*Paris-1er-arrondissement*24*05*2012*07:30*RUE DU LOUVRE*Normale*Plein jour*Indemne,Blessé*1971,1960*2012-05-24T05:30:00+00:00*48.862674*2.341883
+201200053526*Paris*Île-de-France*Paris-1er-arrondissement*21*06*2012*13:24*162, RUE DE RIVOLI*Normale*Plein jour*Blessé,Blessé*1987,1946*2012-06-21T11:24:00+00:00*48.861449*2.339413
+201200053543*Paris*Île-de-France*Paris-8e-arrondissement*28*07*2012*20:50*QUAI DES TUILERIES*Normale*Crépuscule ou aube*Blessé,Blessé*1988,1987*2012-07-28T18:50:00+00:00*48.873707*2.3116
+201200053549*Paris*Île-de-France*Paris-1er-arrondissement*20*08*2012*08:45*146, RUE DE RIVOLI*Normale*Plein jour*Indemne,Blessé*1980,1964*2012-08-20T06:45:00+00:00*48.860837*2.342318
+201200053593*Paris*Île-de-France*Paris-1er-arrondissement*20*11*2012*09:15*0, PLACE DU CHATELET*Normale*Plein jour*Indemne,Blessé*1954,1977*2012-11-20T08:15:00+00:00*48.8576*2.346755
+201200053649*Paris*Île-de-France*Paris-2e-arrondissement*06*04*2012*09:50*1, PLACE DE LA BOURSE*Normale*Plein jour*Blessé,Indemne*1956,1977*2012-04-06T07:50:00+00:00*48.868528*2.341762
+201200053659*Paris*Île-de-France*Paris-2e-arrondissement*21*05*2012*10:25*38, AVENUE DE L OPERA*Pluie légère*Plein jour*Blessé,Indemne*1964,1989*2012-05-21T08:25:00+00:00*48.869696*2.332937
+201200053681*Paris*Île-de-France*Paris-2e-arrondissement*21*07*2012*11:20*BOULEVARD DE SEBASTOPOL*Normale*Plein jour*Blessé,Indemne*1964,1987*2012-07-21T09:20:00+00:00*48.866031*2.352351
+201200053717*Paris*Île-de-France*Paris-2e-arrondissement*29*11*2012*20:35*95, BOULEVARD DE SEBASTO*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1966,1990*2012-11-29T19:35:00+00:00*48.865596*2.351942
+201200053747*Paris*Île-de-France*Paris-3e-arrondissement*05*03*2012*18:25*59, RUE BEAUBOURG*Pluie légère*Crépuscule ou aube*Blessé*1961*2012-03-05T17:25:00+00:00*48.862859*2.354206
+201200053751*Paris*Île-de-France*Paris-3e-arrondissement*14*03*2012*09:10*357, RUE SAINT MARTIN*Normale*Plein jour*Blessé,Indemne*1952,1978*2012-03-14T08:10:00+00:00*48.868636*2.355226
+201200053778*Paris*Île-de-France*Paris-3e-arrondissement*07*06*2012*14:15*201, RUE DU TEMPLE*Pluie forte*Plein jour*Indemne,Indemne,Blessé*1963,1978,1977*2012-06-07T12:15:00+00:00*48.866996*2.362033
+201200053844*Paris*Île-de-France*Paris-4e-arrondissement*02*01*2012*15:45*PONT D ARCOLE*Normale*Plein jour*Indemne,Blessé*1981,1968*2012-01-02T14:45:00+00:00*48.854229*2.34981
+201200053925*Paris*Île-de-France*Paris-4e-arrondissement*24*07*2012*08:05*BOULEVARD HENRI IV*Normale*Plein jour*Blessé*1955*2012-07-24T06:05:00+00:00*48.85177*2.364596
+201200053963*Paris*Île-de-France*Paris-3e-arrondissement*25*10*2012*12:50*PLACE DE LA REPUBLIQUE*Normale*Plein jour*Blessé,Indemne*1991,1945*2012-10-25T10:50:00+00:00*48.866976*2.363483
+201200053992*Paris*Île-de-France*Paris-4e-arrondissement*26*12*2012*21:05*QUAI DE L HOTEL DE VILLE*Pluie légère*Nuit avec éclairage public allumé*Blessé,Indemne*1989,1986*2012-12-26T20:05:00+00:00*48.854903*2.354008
+201200053995*Paris*Île-de-France*Paris-5e-arrondissement*07*01*2012*22:10*BOULEVARD DE L HOPITAL*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1992,1984*2012-01-07T21:10:00+00:00*48.841465*2.362581
+201200054121*Paris*Île-de-France*Paris-5e-arrondissement*07*10*2012*02:59*51, BOULEVARD SAINT MICH*Normale*Nuit avec éclairage public allumé*Blessé*1988*2012-10-07T00:59:00+00:00*48.848381*2.341713
+201200054088*Paris*Île-de-France*Paris-5e-arrondissement*02*08*2012*09:50*BOULEVARD SAINT MICHEL*Normale*Plein jour*Indemne,Blessé*1973,1958*2012-08-02T07:50:00+00:00*48.846495*2.340609
+201200054125*Paris*Île-de-France*Paris-5e-arrondissement*09*10*2012*07:55*8, RUE GAY LUSSAC*Pluie légère*Plein jour*Blessé*1973*2012-10-09T05:55:00+00:00*48.845786*2.341148
+201200054147*Paris*Île-de-France*Paris-5e-arrondissement*16*11*2012*10:45*80, BOULEVARD SAINT MARC*Normale*Plein jour*Blessé,Indemne*1991,1956*2012-11-16T09:45:00+00:00*48.837447*2.353261
+201200054159*Paris*Île-de-France*Paris-5e-arrondissement*09*12*2012*19:55*92, BOULEVARD SAINT MARC*Pluie légère*Nuit avec éclairage public allumé*Blessé,Indemne*1947,1955*2012-12-09T18:55:00+00:00*48.837105*2.352188
+201200054225*Paris*Île-de-France*Paris-6e-arrondissement*30*04*2012*16:41*33, RUE DE SEINE*Normale*Plein jour*Blessé,Blessé*1982,1979*2012-04-30T14:41:00+00:00*48.849268*2.330883
+201200054246*Paris*Île-de-France*Paris-6e-arrondissement*15*06*2012*08:30*85, BOULEVARD RASPAIL*Pluie légère*Plein jour*Blessé,Indemne*1964,1962*2012-06-15T06:30:00+00:00*48.847852*2.328112
+201200054292*Paris*Île-de-France*Paris-6e-arrondissement*29*09*2012*11:15*RUE DE RENNES*Normale*Plein jour*Blessé,Blessé*1984,1990*2012-09-29T09:15:00+00:00*48.848597*2.328205
+201200054295*Paris*Île-de-France*Paris-6e-arrondissement*06*10*2012*19:35*29, BOULEVARD DU MONTPAR*Pluie forte*Nuit avec éclairage public allumé*Blessé*1979*2012-10-06T17:35:00+00:00*48.845137*2.320726
+201200054296*Paris*Île-de-France*Paris-6e-arrondissement*09*10*2012*09:15*5, RUE JOSEPH BARA*Pluie légère*Plein jour*Indemne,Blessé*1984,1976*2012-10-09T07:15:00+00:00*48.842192*2.333971
+201200054303*Paris*Île-de-France*Paris-6e-arrondissement*16*10*2012*12:30*13, QUAI DE CONTI*Normale*Plein jour*Indemne,Blessé*1960,1976*2012-10-16T10:30:00+00:00*48.856967*2.338244
+201200054354*Paris*Île-de-France*Paris-7e-arrondissement*20*01*2012*13:40*128, RUE DU BAC*Pluie légère*Plein jour*Blessé,Indemne*1969,1971*2012-01-20T12:40:00+00:00*48.851819*2.323433
+201200054334*Paris*Île-de-France*Paris-6e-arrondissement*16*12*2012*17:03*90, BOULEVARD RASPAIL*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1938,1947*2012-12-16T16:03:00+00:00*48.846769*2.327979
+201200048719*Val-de-Marne*Île-de-France*Paris-12e-arrondissement*05*04*2012*14:00*A4*Normale*Plein jour*Blessé,Indemne*1981,1954*2012-04-05T12:00:00+00:00*48.83519*2.417559
+201200059359*Paris*Île-de-France*Paris-20e-arrondissement*24*12*2012*15:00*389, RUE DES PYRENEES*Normale*Plein jour*Blessé,Indemne*1954,1964*2012-12-24T14:00:00+00:00*48.873731*2.387495
+201200059362*Paris*Île-de-France*Paris-20e-arrondissement*28*12*2012*14:50*62bis, PLACE DE LA REUNI*Pluie légère*Plein jour*Blessé*1998*2012-12-28T13:50:00+00:00*48.863367*2.397152
+201200059368*Paris*Île-de-France*Paris-12e-arrondissement*31*12*2012*16:50*118, BOULEVARD DIDEROT*Normale*Crépuscule ou aube*Indemne,Blessé*1961,1937*2012-12-31T15:50:00+00:00*48.847237*2.387182
+201200059369*Paris*Île-de-France*Paris-20e-arrondissement*01*01*2012*03:30*PLACE DE LA PORTE DE MON*Pluie légère*Nuit avec éclairage public allumé*Indemne,Blessé*1980,1991*2012-01-01T02:30:00+00:00*48.870597*2.410255
+201200059370*Paris*Île-de-France*Paris-6e-arrondissement*01*01*2012*06:05*48, RUE MAZARINE*Temps couvert*Nuit avec éclairage public allumé*Blessé,Indemne,Blessé,Indemne*1965,1983,1973,1975*2012-01-01T05:05:00+00:00*48.855123*2.337747
+201200059404*Paris*Île-de-France*Paris-4e-arrondissement*06*02*2012*10:50*33, BOULEVARD BOURDON*Normale*Plein jour*Blessé,Indemne*1983,1991*2012-02-06T09:50:00+00:00*48.85179*2.367478
+201200059425*Paris*Île-de-France*Paris-12e-arrondissement*23*02*2012*20:10*313, RUE DE CHARENTON*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1971,1986*2012-02-23T19:10:00+00:00*48.833774*2.39492
+201200059475*Paris*Île-de-France*Paris-1er-arrondissement*17*04*2012*15:55*259, RUE SAINT HONORE*Pluie forte*Plein jour*Indemne,Blessé*1963,1969*2012-04-17T13:55:00+00:00*48.867292*2.326433
+201200059480*Paris*Île-de-France*Paris-10e-arrondissement*20*04*2012*16:45*229, BOULEVARD DE MAGENT*Normale*Plein jour*Blessé,Blessé*1987,1973*2012-04-20T14:45:00+00:00*48.87609*2.362272
+201200059518*Paris*Île-de-France*Paris-17e-arrondissement*23*05*2012*01:35*AVENUE DE LA GRANDE ARME*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1957,1981*2012-05-22T23:35:00+00:00*48.887813*2.304844
+201200059573*Paris*Île-de-France*Paris-7e-arrondissement*01*07*2012*06:30*215, BOULEVARD SAINT GER*Normale*Plein jour*Blessé,Blessé,Blessé,Blessé*1991,1989,1991,1990*2012-07-01T04:30:00+00:00*48.856945*2.324346
+201200059578*Paris*Île-de-France*Paris-5e-arrondissement*02*07*2012*17:19*32 BIS, RUE SAINT JACQUE*Normale*Plein jour*Blessé,Blessé*1967,1932*2012-07-02T15:19:00+00:00*48.85104*2.345493
+201200059583*Paris*Île-de-France*Paris-13e-arrondissement*04*07*2012*17:30*83, RUE DE TOLBIAC*Normale*Plein jour*Blessé*1990*2012-07-04T15:30:00+00:00*48.827057*2.367546
+201200059624*Paris*Île-de-France*Paris-12e-arrondissement*08*08*2012*21:50*PONT D AUSTERLITZ*Normale*Nuit avec éclairage public allumé*Blessé,Blessé*1983,1975*2012-08-08T19:50:00+00:00*48.847011*2.370556
+201200059625*Paris*Île-de-France*Paris-18e-arrondissement*10*08*2012*02:02*RUE DU MONT CENIS*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1978,1960*2012-08-10T00:02:00+00:00*48.892208*2.344184
+201200059658*Paris*Île-de-France*Paris-14e-arrondissement*10*09*2012*14:23*RUE DE LA SANTE*Normale*Plein jour*Indemne,Blessé*1971,1958*2012-09-10T12:23:00+00:00*48.832616*2.341067
+201200059737*Paris*Île-de-France*Paris-3e-arrondissement*12*11*2012*12:00*127, RUE VIEILLE DU TEMP*Normale*Plein jour*Indemne,Blessé*1962,1969*2012-11-12T11:00:00+00:00*48.86153*2.363564
+201200059746*Paris*Île-de-France*Paris-6e-arrondissement*18*11*2012*06:36*120, BOULEVARD SAINT GER*Pluie légère*Nuit avec éclairage public allumé*Blessé,Indemne*1965,1970*2012-11-18T05:36:00+00:00*48.852255*2.340267
+201200059765*Paris*Île-de-France*Paris-16e-arrondissement*09*12*2012*06:30*61, AVENUE DE LA PORTE D*Normale*Nuit avec éclairage public allumé*Blessé*1959*2012-12-09T05:30:00+00:00*48.847995*2.243871
+201200059858*Paris*Île-de-France*Paris-14e-arrondissement*22*02*2012*18:10*PORTE D ORLEANS*Normale*Plein jour*Indemne,Blessé*1971,1972*2012-02-22T17:10:00+00:00*48.821705*2.325397
+201200059925*Paris*Île-de-France*Paris-13e-arrondissement*02*04*2012*16:15*QUAI D IVRY*Normale*Plein jour*Blessé,Indemne*1966,1978*2012-04-02T14:15:00+00:00*48.826085*2.387562
+201200059961*Paris*Île-de-France*Paris-16e-arrondissement*18*04*2012*18:15*PORTE MAILLOT*Normale*Plein jour*Blessé,Blessé*1977,1986*2012-04-18T16:15:00+00:00*48.877335*2.283641
+201200059978*Paris*Île-de-France*Paris-14e-arrondissement*30*04*2012*17:45*PORTE BRANCION*Normale*Plein jour*Blessé,Indemne*1987,1950*2012-04-30T15:45:00+00:00*48.822898*2.322918
+201200059987*Paris*Île-de-France*Paris-20e-arrondissement*04*05*2012*16:35*PORTE DES LILAS*Pluie forte*Crépuscule ou aube*Blessé,Indemne*1975,1984*2012-05-04T14:35:00+00:00*48.877513*2.408217
+201200060017*Paris*Île-de-France*Paris-16e-arrondissement*18*05*2012*19:00*PORTE D AUTEUIL*Normale*Plein jour*Blessé*1991*2012-05-18T17:00:00+00:00*48.847978*2.244925
+201200060052*Paris*Île-de-France*Paris-18e-arrondissement*03*06*2012*07:05*PORTE DE LA CHAPELLE*Pluie légère*Plein jour*Blessé*1949*2012-06-03T05:05:00+00:00*48.900623*2.358491
+201200060110*Paris*Île-de-France*Paris-18e-arrondissement*04*07*2012*07:05*PORTE DE CLIGNANCOURT*Normale*Plein jour*Blessé,Indemne*1962,1969*2012-07-04T05:05:00+00:00*48.898675*2.344117
+201200060055*Paris*Île-de-France*Paris-17e-arrondissement*07*06*2012*10:30*PORTE MAILLOT*Normale*Plein jour*Indemne,Blessé*1993,1974*2012-06-07T08:30:00+00:00*48.878577*2.283835
+201200060121*Paris*Île-de-France*Paris-13e-arrondissement*09*07*2012*14:40*QUAI D IVRY*Normale*Plein jour*Indemne,Blessé*1944,1965*2012-07-09T12:40:00+00:00*48.826085*2.387562
+201200060146*Paris*Île-de-France*Paris-16e-arrondissement*25*07*2012*15:00*PORTE DE SAINT CLOUD*Normale*Plein jour*Blessé,Indemne*1983,1962*2012-07-25T13:00:00+00:00*48.83894*2.253745
+201200060133*Paris*Île-de-France*Paris-20e-arrondissement*18*07*2012*09:55*ECHANGEUR BAGNOLET*Normale*Plein jour*Indemne,Blessé*1950,1987*2012-07-18T07:55:00+00:00*48.85893*2.401499
+201200060148*Paris*Île-de-France*Paris-16e-arrondissement*26*07*2012*16:15*PORTE DE SAINT CLOUD*Normale*Plein jour*Indemne,Blessé*1991,1982*2012-07-26T14:15:00+00:00*48.83894*2.253745
+201200060154*Paris*Île-de-France*Paris-16e-arrondissement*30*07*2012*08:45*QUAI D ISSY LES MOULINEA*Normale*Plein jour*Blessé,Blessé,Blessé*1959,1985,1984*2012-07-30T06:45:00+00:00*48.845917*2.273147
+201200060190*Paris*Île-de-France*Paris-14e-arrondissement*03*09*2012*07:25*PORTE BRANCION*Pluie légère*Plein jour*Blessé,Indemne*1989,1964*2012-09-03T05:25:00+00:00*48.822898*2.322918
+201200060370*Paris*Île-de-France*Paris-17e-arrondissement*20*11*2012*09:15*PORTE D ASNIERES*Normale*Plein jour*Indemne,Indemne,Blessé*1949,1988,1974*2012-11-20T08:15:00+00:00*48.891227*2.302717
+201200060373*Paris*Île-de-France*Paris-19e-arrondissement*21*11*2012*19:00*ECHANGEUR LILAS*Normale*Nuit avec éclairage public allumé*Blessé,Indemne,Indemne*1971,1982,1982*2012-11-21T18:00:00+00:00*48.879263*2.396318
+201200060388*Paris*Île-de-France*Paris-18e-arrondissement*28*11*2012*13:20*PORTE DE LA CHAPELLE*Normale*Plein jour*Blessé,Indemne*1978,1964*2012-11-28T12:20:00+00:00*48.900623*2.358491
+201200060405*Paris*Île-de-France*Paris-19e-arrondissement*06*12*2012*19:30*PORTE DU PRE SAINT GERVA*Normale*Nuit avec éclairage public allumé*Blessé,Indemne,Indemne,Blessé*1973,1967,1978,1978*2012-12-06T18:30:00+00:00*48.879335*2.401736
+201200054383*Paris*Île-de-France*Paris-7e-arrondissement*22*03*2012*19:35*14, AVENUE DE LOWENDAL*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1981,1966*2012-03-22T18:35:00+00:00*48.852507*2.308173
+201200054384*Paris*Île-de-France*Paris-7e-arrondissement*23*03*2012*19:15*11, BOULEVARD RASPAIL*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1980,1983*2012-03-23T18:15:00+00:00*48.854738*2.326096
+201200054397*Paris*Île-de-France*Paris-7e-arrondissement*19*04*2012*09:45*QUAI D ORSAY*Normale*Plein jour*Indemne,Blessé*1975,1987*2012-04-19T07:45:00+00:00*48.862275*2.307205
+201200054400*Paris*Île-de-France*Paris-7e-arrondissement*30*04*2012*12:15*24, BOULEVARD DE LA TOUR*Normale*Plein jour*Indemne,Blessé*1987,1945*2012-04-30T10:15:00+00:00*48.860413*2.310025
+201200054432*Paris*Île-de-France*Paris-7e-arrondissement*14*06*2012*16:00*14, BOULEVARD DES INVALI*Normale*Plein jour*Blessé*1958*2012-06-14T14:00:00+00:00*48.85313*2.314382
+201200054466*Paris*Île-de-France*Paris-7e-arrondissement*11*08*2012*04:05*34, BOULEVARD DES INVALI*Normale*Nuit avec éclairage public allumé*Blessé*1982*2012-08-11T02:05:00+00:00*48.851945*2.314243
+201200054454*Paris*Île-de-France*Paris-7e-arrondissement*21*07*2012*04:00*9, QUAI VOLTAIRE*Normale*Nuit avec éclairage public allumé*Indemne,Indemne,Blessé*1985,1991,1993*2012-07-21T02:00:00+00:00*48.858561*2.331915
+201200054482*Paris*Île-de-France*Paris-7e-arrondissement*23*09*2012*16:50*37, QUAI D ORSAY*Normale*Plein jour*Blessé,Indemne,Blessé*1986,1984,1987*2012-09-23T14:50:00+00:00*48.862721*2.315837
+201200054552*Paris*Île-de-France*Paris-7e-arrondissement*24*12*2012*13:00*43, AVENUE DE SAXE*Normale*Plein jour*Blessé,Indemne*1931,1958*2012-12-24T12:00:00+00:00*48.847928*2.311024
+201200054698*Paris*Île-de-France*Paris-8e-arrondissement*15*05*2012*17:00*130, RUE DU FAUBOURG SAI*Temps couvert*Plein jour*Indemne,Blessé*1973,1966*2012-05-15T15:00:00+00:00*48.872404*2.312397
+201200054735*Paris*Île-de-France*Paris-8e-arrondissement*18*06*2012*00:04*RUE CAMBACERES*Normale*Nuit avec éclairage public allumé*Blessé,Indemne,Indemne*1982,1977,1992*2012-06-17T22:04:00+00:00*48.87296*2.317897
+201200054751*Paris*Île-de-France*Paris-8e-arrondissement*29*06*2012*12:48*9, RUE DU FAUBOURG SAINT*Normale*Plein jour*Indemne,Blessé*1978,1989*2012-06-29T10:48:00+00:00*48.86858*2.32229
+201200054854*Paris*Île-de-France*Paris-8e-arrondissement*19*09*2012*11:30*RUE DE SAINT PETERSBOURG*Normale*Plein jour*Indemne,Blessé*1962,1964*2012-09-19T09:30:00+00:00*48.881527*2.325294
+201200054849*Paris*Île-de-France*Paris-8e-arrondissement*17*09*2012*13:00*40, AVENUE DE FRIEDLAND*Normale*Plein jour*Blessé,Indemne*1957,1956*2012-09-17T11:00:00+00:00*48.874043*2.297558
+201200054881*Paris*Île-de-France*Paris-8e-arrondissement*04*10*2012*18:30*24, AVENUE DES CHAMPS EL*Normale*Plein jour*Indemne,Indemne,Blessé*1976,1960,1977*2012-10-04T16:30:00+00:00*48.869714*2.308951
+201200054897*Paris*Île-de-France*Paris-8e-arrondissement*17*10*2012*06:20*ROND POINT CHAMPS ELYSEE*Pluie légère*Crépuscule ou aube*Indemne,Blessé*1965,1971*2012-10-17T04:20:00+00:00*48.869717*2.309772
+201200054904*Paris*Île-de-France*Paris-8e-arrondissement*19*10*2012*12:15*PLACE DE LA CONCORDE*Normale*Plein jour*Blessé,Indemne*1955,1950*2012-10-19T10:15:00+00:00*48.867065*2.321877
+201200054953*Paris*Île-de-France*Paris-8e-arrondissement*22*11*2012*01:10*COURS ALBERT 1ER*Normale*Nuit avec éclairage public allumé*Blessé*1977*2012-11-22T00:10:00+00:00*48.864909*2.306255
+201200054961*Paris*Île-de-France*Paris-8e-arrondissement*26*11*2012*17:55*VOIE GEORGES POMPIDOU*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1990,1987*2012-11-26T16:55:00+00:00*48.879006*2.325877
+201200054987*Paris*Île-de-France*Paris-8e-arrondissement*12*12*2012*14:00*93, BOULEVARD MALESHERBE*Normale*Plein jour*Blessé*1952*2012-12-12T13:00:00+00:00*48.878542*2.315056
+201200055030*Paris*Île-de-France*Paris-9e-arrondissement*23*01*2012*11:00*62, RUE DE LA CHAUSSEE D*Normale*Plein jour*Blessé,Indemne*1960,1978*2012-01-23T10:00:00+00:00*48.875125*2.332459
+201200055046*Paris*Île-de-France*Paris-9e-arrondissement*19*02*2012*00:35*02, RUE FROCHOT*Pluie forte*Nuit avec éclairage public allumé*Indemne,Indemne,Blessé*1980,1976,1980*2012-02-18T23:35:00+00:00*48.881408*2.33738
+201200055071*Paris*Île-de-France*Paris-9e-arrondissement*27*03*2012*17:00*08, BOULEVARD DES CAPUCI*Normale*Plein jour*Blessé,Indemne*1946,1988*2012-03-27T15:00:00+00:00*48.870933*2.332945
+201200055074*Paris*Île-de-France*Paris-9e-arrondissement*31*03*2012*03:25*BOULEVARD HAUSSMANN*Normale*Nuit avec éclairage public allumé*Blessé*1987*2012-03-31T01:25:00+00:00*48.873004*2.333128
+201200055079*Paris*Île-de-France*Paris-9e-arrondissement*11*04*2012*21:30*2, PLACE D ANVERS*Normale*Nuit avec éclairage public allumé*Blessé*1993*2012-04-11T19:30:00+00:00*48.882015*2.344954
+201200055088*Paris*Île-de-France*Paris-9e-arrondissement*27*04*2012*03:40*16, RUE FROCHOT*Normale*Nuit avec éclairage public allumé*Blessé*1971*2012-04-27T01:40:00+00:00*48.881836*2.337347
+201200055092*Paris*Île-de-France*Paris-9e-arrondissement*03*05*2012*12:45*13, RUE SAULNIER*Normale*Plein jour*Indemne,Blessé*1973,2009*2012-05-03T10:45:00+00:00*48.874984*2.344318
+201200055114*Paris*Île-de-France*Paris-9e-arrondissement*23*06*2012*00:05*18, RUE LE PELETIER*Normale*Nuit avec éclairage public allumé*Blessé,Blessé*1994,1993*2012-06-22T22:05:00+00:00*48.873322*2.338867
+201200055134*Paris*Île-de-France*Paris-9e-arrondissement*15*08*2012*03:00*8, BOULEVARD MONTMARTRE*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1978,1984*2012-08-15T01:00:00+00:00*48.871797*2.34223
+201200055136*Paris*Île-de-France*Paris-9e-arrondissement*17*08*2012*15:20*1, PLACE BLANCHE*Normale*Plein jour*Indemne,Blessé*1989,1969*2012-08-17T13:20:00+00:00*48.883529*2.332738
+201200055137*Paris*Île-de-France*Paris-9e-arrondissement*18*08*2012*11:50*RUE LA FAYETTE*Normale*Plein jour*Indemne,Blessé*1992,1942*2012-08-18T09:50:00+00:00*48.875089*2.341321
+201200055195*Paris*Île-de-France*Paris-9e-arrondissement*21*11*2012*16:37*52, RUE DU FAUBOURG MONT*Normale*Crépuscule ou aube*Blessé,Blessé*1971,1990*2012-11-21T15:37:00+00:00*48.875305*2.340932
+201200055257*Paris*Île-de-France*Paris-10e-arrondissement*03*03*2012*22:00*138, BOULEVARD DE MAGENT*Normale*Nuit avec éclairage public allumé*Blessé,Blessé*1929,1927*2012-03-03T21:00:00+00:00*48.881109*2.351987
+201200055313*Paris*Île-de-France*Paris-10e-arrondissement*10*05*2012*12:10*67, RUE DU CHATEAU D EAU*Normale*Plein jour*Blessé,Indemne*1965,1981*2012-05-10T10:10:00+00:00*48.872722*2.354594
+201200055339*Paris*Île-de-France*Paris-10e-arrondissement*15*06*2012*14:35*85, QUAI DE VALMY*Normale*Plein jour*Blessé,Blessé,Blessé*1979,1993,1957*2012-06-15T12:35:00+00:00*48.872925*2.363607
+201200055360*Paris*Île-de-France*Paris-10e-arrondissement*01*07*2012*04:40*135, BOULEVARD DE LA VIL*Normale*Crépuscule ou aube*Blessé*1973*2012-07-01T02:40:00+00:00*48.881991*2.36993
+201200055367*Paris*Île-de-France*Paris-10e-arrondissement*05*07*2012*17:20*27, RUE DU CHATEAU D EAU*Pluie forte*Plein jour*Blessé*1994*2012-07-05T15:20:00+00:00*48.870558*2.359257
+201200055392*Paris*Île-de-France*Paris-10e-arrondissement*07*08*2012*11:20*100, QUAI DE JEMMAPES*Normale*Plein jour*Blessé,Indemne*1975,1955*2012-08-07T09:20:00+00:00*48.873427*2.364164
+201200055450*Paris*Île-de-France*Paris-10e-arrondissement*11*10*2012*19:35*13, BOULEVARD DE MAGENTA*Pluie forte*Nuit avec éclairage public allumé*Blessé,Blessé*1948,1936*2012-10-11T17:35:00+00:00*48.870155*2.361297
+201200055440*Paris*Île-de-France*Paris-10e-arrondissement*03*10*2012*18:30*223, RUE LA FAYETTE*Pluie forte*Plein jour*Blessé,Indemne*1983,1982*2012-10-03T16:30:00+00:00*48.881637*2.365513
+201200055494*Paris*Île-de-France*Paris-10e-arrondissement*26*11*2012*06:15*41, QUAI DE VALMY*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1956,1961*2012-11-26T05:15:00+00:00*48.869469*2.366347
+201200055495*Paris*Île-de-France*Paris-10e-arrondissement*27*11*2012*16:05*153, BOULEVARD DE MAGENT*Pluie légère*Plein jour*Blessé,Blessé*1964,1984*2012-11-27T15:05:00+00:00*48.882942*2.349836
+201200055610*Paris*Île-de-France*Paris-11e-arrondissement*27*03*2012*11:55*AVENUE DE LA REPUBLIQUE*Normale*Plein jour*Indemne,Blessé*1970,1981*2012-03-27T09:55:00+00:00*48.864767*2.376384
+201200055498*Paris*Île-de-France*Paris-10e-arrondissement*04*12*2012*18:25*224, RUE LA FAYETTE*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1972,1959*2012-12-04T17:25:00+00:00*48.882202*2.368202
+201200055615*Paris*Île-de-France*Paris-11e-arrondissement*29*03*2012*11:15*81, BOULEVARD DE MENILMO*Normale*Plein jour*Blessé*1955*2012-03-29T09:15:00+00:00*48.863776*2.386135
+201200055625*Paris*Île-de-France*Paris-11e-arrondissement*04*04*2012*11:00*83, RUE LEON FROT*Normale*Plein jour*Indemne,Blessé*1948,1983*2012-04-04T09:00:00+00:00*48.857828*2.384264
+201200055616*Paris*Île-de-France*Paris-11e-arrondissement*30*03*2012*18:15*91, AVENUE DE LA REPUBLI*Normale*Plein jour*Blessé*1983*2012-03-30T16:15:00+00:00*48.863967*2.382187
+201200055679*Paris*Île-de-France*Paris-11e-arrondissement*23*05*2012*17:40*BOULEVARD VOLTAIRE*Normale*Plein jour*Indemne,Blessé*1961,1970*2012-05-23T15:40:00+00:00*48.85715*2.381537
+201200055713*Paris*Île-de-France*Paris-11e-arrondissement*27*06*2012*11:30*79, BOULEVARD RICHARD LE*Normale*Plein jour*Indemne,Blessé*1976,1990*2012-06-27T09:30:00+00:00*48.861126*2.372131
+201200055736*Paris*Île-de-France*Paris-11e-arrondissement*21*07*2012*19:20*43, RUE DE L ORILLON*Normale*Plein jour*Indemne,Blessé*1952,1990*2012-07-21T17:20:00+00:00*48.870547*2.377314
+201200055739*Paris*Île-de-France*Paris-11e-arrondissement*23*07*2012*03:50*22, AVENUE DE LA REPUBLI*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1975,1990*2012-07-23T01:50:00+00:00*48.866213*2.368757
+201200055788*Paris*Île-de-France*Paris-11e-arrondissement*16*09*2012*01:20*35, RUE OBERKAMPF*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1955,1993*2012-09-15T23:20:00+00:00*48.863928*2.37031
+201200055860*Paris*Île-de-France*Paris-11e-arrondissement*14*11*2012*18:14*144, RUE DE LA ROQUETTE*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1961,1972*2012-11-14T17:14:00+00:00*48.858068*2.382285
+201200055949*Paris*Île-de-France*Paris-12e-arrondissement*30*01*2012*09:00*21, RUE LOUIS BRAILLE*Normale*Plein jour*Blessé*1969*2012-01-30T08:00:00+00:00*48.839785*2.40261
+201200055966*Paris*Île-de-France*Paris-12e-arrondissement*11*02*2012*11:00*RUE DE RAMBOUILLET*Normale*Plein jour*Blessé*1971*2012-02-11T10:00:00+00:00*48.844168*2.38107
+201200055971*Paris*Île-de-France*Paris-12e-arrondissement*15*02*2012*08:50*AVENUE DE SAINT MAURICE*Normale*Plein jour*Blessé*1987*2012-02-15T07:50:00+00:00*48.832021*2.42038
+201200056027*Paris*Île-de-France*Paris-12e-arrondissement*30*03*2012*21:25*AVENUE DE SAINT MANDE*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1992,1950*2012-03-30T19:25:00+00:00*48.844735*2.402566
+201200056035*Paris*Île-de-France*Paris-12e-arrondissement*10*04*2012*16:40*159, RUE DE BERCY*Pluie forte*Plein jour*Indemne,Blessé*1982,1957*2012-04-10T14:40:00+00:00*48.842227*2.37585
+201200056071*Paris*Île-de-France*Paris-12e-arrondissement*13*05*2012*10:55*PLACE DE LA BASTILLE*Normale*Plein jour*Blessé*1987*2012-05-13T08:55:00+00:00*48.852935*2.37039
+201200056076*Paris*Île-de-France*Paris-12e-arrondissement*15*05*2012*10:30*QUAI DE BERCY*Normale*Plein jour*Indemne,Blessé*1985,1925*2012-05-15T08:30:00+00:00*48.830587*2.385496
+201200056118*Paris*Île-de-France*Paris-12e-arrondissement*24*06*2012*11:00*AVENUE DE GRAVELLE*Pluie légère*Plein jour*Blessé,Indemne*1953,1961*2012-06-24T09:00:00+00:00*48.824796*2.414597
+201200056201*Paris*Île-de-France*Paris-12e-arrondissement*01*09*2012*04:30*RUE DE POMMARD*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1988,1988*2012-09-01T02:30:00+00:00*48.836282*2.384041
+201200056261*Paris*Île-de-France*Paris-12e-arrondissement*10*10*2012*12:25*BOULEVARD DE BERCY*Normale*Plein jour*Blessé,Indemne*1988,1986*2012-10-10T10:25:00+00:00*48.839775*2.383227
+201200056270*Paris*Île-de-France*Paris-12e-arrondissement*12*10*2012*21:25*116, BOULEVARD DIDEROT*Pluie forte*Nuit sans éclairage public*Indemne,Blessé*1989,1983*2012-10-12T19:25:00+00:00*48.847169*2.386606
+201200056277*Paris*Île-de-France*Paris-12e-arrondissement*19*10*2012*17:10*26, AVENUE DAUMESNIL*Pluie légère*Plein jour*Indemne,Blessé*1977,1989*2012-10-19T15:10:00+00:00*48.847963*2.373572
+201200056279*Paris*Île-de-France*Paris-11e-arrondissement*20*10*2012*15:40*12, PLACE DE LA BASTILLE*Pluie légère*Plein jour*Blessé*1980*2012-10-20T13:40:00+00:00*48.853715*2.37009
+201200056319*Paris*Île-de-France*Paris-12e-arrondissement*24*11*2012*18:05*QUAI DE LA RAPEE*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1949,1946*2012-11-24T17:05:00+00:00*48.843207*2.371326
+201200056321*Paris*Île-de-France*Paris-12e-arrondissement*26*11*2012*07:50*QUAI DE BERCY*Normale*Plein jour*Blessé*1988*2012-11-26T06:50:00+00:00*48.830587*2.385496
+201200056326*Paris*Île-de-France*Paris-12e-arrondissement*29*11*2012*16:30*16, RUE DE WATTIGNIES*Normale*Plein jour*Blessé,Indemne*1942,1993*2012-11-29T15:30:00+00:00*48.836442*2.393561
+201200056354*Paris*Île-de-France*Paris-12e-arrondissement*14*12*2012*17:50*37, RUE DE REUILLY*Pluie légère*Nuit avec éclairage public allumé*Indemne,Blessé*1985,2008*2012-12-14T16:50:00+00:00*48.846865*2.387348
+201200056355*Paris*Île-de-France*Paris-12e-arrondissement*14*12*2012*19:15*98, AVENUE DAUMESNIL*Pluie légère*Nuit avec éclairage public allumé*Blessé,Indemne*1973,1989*2012-12-14T18:15:00+00:00*48.843239*2.383378
+201200056372*Paris*Île-de-France*Paris-12e-arrondissement*31*12*2012*19:00*2, PLACE DE LA NATION*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1970,1977*2012-12-31T18:00:00+00:00*48.848428*2.394171
+201200056375*Paris*Île-de-France*Paris-13e-arrondissement*02*01*2012*18:50*PORTE D ITALIE*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1968,1972*2012-01-02T17:50:00+00:00*48.817069*2.360173
+201200056535*Paris*Île-de-France*Paris-13e-arrondissement*03*07*2012*18:15*RUE DE TOLBIAC*Normale*Plein jour*Indemne,Blessé*1972,1991*2012-07-03T16:15:00+00:00*48.826276*2.360267
+201200056505*Paris*Île-de-France*Paris-13e-arrondissement*02*06*2012*18:50*25, QUAI PANHARD ET LEVA*Normale*Plein jour*Indemne,Blessé*1973,1985*2012-06-02T16:50:00+00:00*48.82838*2.38408
+201200056560*Paris*Île-de-France*Paris-13e-arrondissement*24*07*2012*14:15*AVENUE PIERRE DE COUBERT*Normale*Plein jour*Indemne,Indemne,Blessé*1926,1956,1982*2012-07-24T12:15:00+00:00*48.8302*2.365001
+201200056578*Paris*Île-de-France*Paris-13e-arrondissement*14*08*2012*19:30*AVENUE GENERAL DE GAULLE*Normale*Plein jour*Indemne,Blessé*1967,1980*2012-08-14T17:30:00+00:00*48.827009*2.385509
+201200056595*Paris*Île-de-France*Paris-13e-arrondissement*01*09*2012*16:45*182, BOULEVARD VINCENT A*Normale*Plein jour*Blessé,Indemne*1960,1968*2012-09-01T14:45:00+00:00*48.83413*2.36509
+201200056632*Paris*Île-de-France*Paris-13e-arrondissement*03*10*2012*09:05*153, AVENUE DE CHOISY*Normale*Plein jour*Indemne,Blessé*1958,1952*2012-10-03T07:05:00+00:00*48.82787*2.35837
+201200056653*Paris*Île-de-France*Paris-13e-arrondissement*17*10*2012*19:10*02, QUAI PANHARD ET LEVA*Pluie légère*Nuit avec éclairage public allumé*Indemne,Blessé*1979,1980*2012-10-17T17:10:00+00:00*48.82989*2.382638
+201200056710*Paris*Île-de-France*Paris-13e-arrondissement*09*12*2012*18:00*AVENUE DE LA PORTE D ITA*Pluie légère*Nuit avec éclairage public allumé*Blessé,Indemne,Indemne*1991,1980,1982*2012-12-09T17:00:00+00:00*48.817069*2.360173
+201200056661*Paris*Île-de-France*Paris-13e-arrondissement*27*10*2012*00:15*48, RUE BOBILLOT*Normale*Nuit avec éclairage public allumé*Blessé,Blessé*1995,1993*2012-10-26T22:15:00+00:00*48.826673*2.35107
+201200056766*Paris*Île-de-France*Paris-14e-arrondissement*18*02*2012*19:55*PLACE DU VINGT CINQ AOUT*Pluie légère*Nuit avec éclairage public allumé*Indemne,Blessé*1985,2001*2012-02-18T18:55:00+00:00*48.822695*2.325998
+201200056809*Paris*Île-de-France*Paris-14e-arrondissement*09*04*2012*19:45*124, AVENUE DU MAINE*Pluie légère*Crépuscule ou aube*Blessé,Indemne,Indemne*1981,1984,1975*2012-04-09T17:45:00+00:00*48.835633*2.323433
+201200056785*Paris*Île-de-France*Paris-14e-arrondissement*16*03*2012*09:00*147, AVENUE DU MAINE*Normale*Plein jour*Blessé*1968*2012-03-16T08:00:00+00:00*48.833927*2.324644
+201200056855*Paris*Île-de-France*Paris-14e-arrondissement*30*05*2012*15:50*23, BOULEVARD EDGAR QUIN*Normale*Plein jour*Blessé*1964*2012-05-30T13:50:00+00:00*48.840764*2.326543
+201200056918*Paris*Île-de-France*Paris-14e-arrondissement*20*08*2012*05:20*AVENUE DENFERT ROCHEREAU*Normale*Nuit avec éclairage public allumé*Blessé,Blessé,Blessé*1990,1989,1989*2012-08-20T03:20:00+00:00*48.836054*2.334267
+201200056899*Paris*Île-de-France*Paris-14e-arrondissement*18*07*2012*17:10*68, AVENUE DU GENERAL LE*Normale*Plein jour*Indemne,Blessé*1990,1976*2012-07-18T15:10:00+00:00*48.82952*2.328052
+201200056933*Paris*Île-de-France*Paris-14e-arrondissement*05*09*2012*15:55*98, AVENUE DU GENERAL LE*Normale*Plein jour*Blessé,Indemne*1951,1991*2012-09-05T13:55:00+00:00*48.826976*2.326248
+201200056937*Paris*Île-de-France*Paris-14e-arrondissement*10*09*2012*10:40*143, BOULEVARD BRUNE*Normale*Plein jour*Indemne,Blessé*1949,1966*2012-09-10T08:40:00+00:00*48.82479*2.319368
+201200057004*Paris*Île-de-France*Paris-14e-arrondissement*26*11*2012*15:30*11 TER, RUE D ALESIA*Normale*Plein jour*Indemne,Blessé*1951,1990*2012-11-26T14:30:00+00:00*48.82703*2.337098
+201200057003*Paris*Île-de-France*Paris-14e-arrondissement*24*11*2012*13:20*PORTE DE CHATILLON*Pluie légère*Plein jour*Indemne,Blessé*1982,1984*2012-11-24T12:20:00+00:00*48.823347*2.316524
+201200057008*Paris*Île-de-France*Paris-14e-arrondissement*30*11*2012*20:25*36, BOULEVARD EDGAR QUIN*Normale*Nuit avec éclairage public allumé*Indemne,Blessé,Blessé*1969,1986,1979*2012-11-30T19:25:00+00:00*48.840649*2.326833
+201200057013*Paris*Île-de-France*Paris-14e-arrondissement*06*12*2012*21:05*115, RUE DIDOT*Temps couvert*Nuit avec éclairage public allumé*Indemne,Blessé*1986,1948*2012-12-06T20:05:00+00:00*48.827828*2.315326
+201200057028*Paris*Île-de-France*Paris-14e-arrondissement*20*12*2012*21:20*80, AVENUE DU GENERAL LE*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1956,1962*2012-12-20T20:20:00+00:00*48.829023*2.327615
+201200057051*Paris*Île-de-France*Paris-15e-arrondissement*19*01*2012*21:20*158, RUE DE LA CONVENTIO*Pluie légère*Nuit avec éclairage public allumé*Blessé,Indemne*1960,1959*2012-01-19T20:20:00+00:00*48.838864*2.292563
+201200057169*Paris*Île-de-France*Paris-15e-arrondissement*06*06*2012*20:45*RUE DE LA CONVENTION*Normale*Crépuscule ou aube*Blessé,Indemne*1980,1949*2012-06-06T18:45:00+00:00*48.840356*2.28997
+201200057173*Paris*Île-de-France*Paris-15e-arrondissement*11*06*2012*10:30*136, RUE DE LA CROIX NIV*Pluie légère*Plein jour*Blessé*1972*2012-06-11T08:30:00+00:00*48.8416*2.292434
+201200057214*Paris*Île-de-France*Paris-15e-arrondissement*14*07*2012*03:20*QUAI ANDRE CITROEN*Pluie légère*Nuit avec éclairage public allumé*Indemne,Blessé*1977,1975*2012-07-14T01:20:00+00:00*48.847304*2.279404
+201200057236*Paris*Île-de-France*Paris-15e-arrondissement*20*08*2012*04:22*91, RUE DU COMMERCE*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1983,1982*2012-08-20T02:22:00+00:00*48.844095*2.293471
+201200057244*Paris*Île-de-France*Paris-15e-arrondissement*23*08*2012*18:00*135, RUE DE LA CONVENTIO*Normale*Plein jour*Indemne,Blessé*1958,1989*2012-08-23T16:00:00+00:00*48.839984*2.290627
+201200057321*Paris*Île-de-France*Paris-15e-arrondissement*13*11*2012*09:30*06, RUE GASTON BOISSIER*Normale*Plein jour*Blessé*1964*2012-11-13T08:30:00+00:00*48.829433*2.295307
+201200057382*Paris*Île-de-France*Paris-16e-arrondissement*12*01*2012*17:45*113, RUE DE LONGCHAMP*Normale*Crépuscule ou aube*Blessé,Indemne*1938,1958*2012-01-12T16:45:00+00:00*48.866766*2.2793
+201200057415*Paris*Île-de-France*Paris-16e-arrondissement*30*01*2012*12:30*190, AVENUE DE VERSAILLE*Normale*Plein jour*Blessé,Indemne*1931,1979*2012-01-30T11:30:00+00:00*48.839314*2.261235
+201200057434*Paris*Île-de-France*Paris-16e-arrondissement*15*02*2012*15:00*87, RUE JEAN DE LA FONTA*Normale*Plein jour*Indemne,Blessé*1944,1985*2012-02-15T14:00:00+00:00*48.848386*2.265281
+201200057459*Paris*Île-de-France*Paris-16e-arrondissement*10*03*2012*09:30*54, RUE COPERNIC*Normale*Plein jour*Blessé,Indemne*1951,1959*2012-03-10T08:30:00+00:00*48.869316*2.288678
+201200057489*Paris*Île-de-France*Paris-16e-arrondissement*28*03*2012*22:10*AVENUE DE LA PORTE DE SA*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1936,1970*2012-03-28T20:10:00+00:00*48.83894*2.253745
+201200057512*Paris*Île-de-France*Paris-16e-arrondissement*11*04*2012*14:10*85, AVENUE MOZART*Normale*Plein jour*Blessé,Indemne*1981,1988*2012-04-11T12:10:00+00:00*48.852347*2.268253
+201200057526*Paris*Île-de-France*Paris-16e-arrondissement*20*04*2012*12:50*AVENUE BUGEAUD*Temps couvert*Plein jour*Blessé,Indemne*1944,1970*2012-04-20T10:50:00+00:00*48.870509*2.281698
+201200057559*Paris*Île-de-France*Paris-16e-arrondissement*19*05*2012*16:55*RUE ERLANGER*Pluie légère*Plein jour*Indemne,Blessé*1976,1987*2012-05-19T14:55:00+00:00*48.846124*2.261138
+201200057572*Paris*Île-de-France*Paris-16e-arrondissement*29*05*2012*11:30*ALLEE DE LA REINE MARGUE*Normale*Plein jour*Blessé,Indemne*1968,1979*2012-05-29T09:30:00+00:00*48.856448*2.264817
+201200057596*Paris*Île-de-France*Paris-16e-arrondissement*14*06*2012*09:10*PLACE DU MARECHAL DE LAT*Normale*Plein jour*Indemne,Blessé*1978,1966*2012-06-14T07:10:00+00:00*48.871027*2.274103
+201200057599*Paris*Île-de-France*Paris-16e-arrondissement*15*06*2012*09:05*AVENUE DE LA PORTE MOLIT*Pluie légère*Plein jour*Blessé,Indemne*1981,1974*2012-06-15T07:05:00+00:00*48.845006*2.253382
+201200057610*Paris*Île-de-France*Paris-16e-arrondissement*22*06*2012*17:35*8, AVENUE VICTOR HUGO*Normale*Plein jour*Indemne,Blessé,Indemne*1967,1982,1969*2012-06-22T15:35:00+00:00*48.872846*2.292518
+201200057615*Paris*Île-de-France*Paris-16e-arrondissement*24*06*2012*15:52*46, BOULEVARD SUCHET*Pluie légère*Plein jour*Indemne,Blessé,Blessé,Indemne*1967,1987,1986,1989*2012-06-24T13:52:00+00:00*48.856617*2.263949
+201200057655*Paris*Île-de-France*Paris-16e-arrondissement*13*07*2012*15:05*PLACE DE VARSOVIE*Normale*Plein jour*Blessé,Blessé*2003,1975*2012-07-13T13:05:00+00:00*48.859955*2.290031
+201200057721*Paris*Île-de-France*Paris-16e-arrondissement*09*09*2012*13:30*56, RUE DE BOULAINVILLIE*Normale*Plein jour*Indemne,Blessé,Indemne*1968,2008,1975*2012-09-09T11:30:00+00:00*48.857446*2.274922
+201200057731*Paris*Île-de-France*Paris-16e-arrondissement*13*09*2012*04:10*PONT DE BIR HAKEIM*Pluie légère*Nuit avec éclairage public allumé*Blessé,Blessé*1985,2008*2012-09-13T02:10:00+00:00*48.856448*2.264817
+201200057734*Paris*Île-de-France*Paris-16e-arrondissement*14*09*2012*21:10*ALLEE DE LA REINE MARGUE*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1973,1989*2012-09-14T19:10:00+00:00*48.856448*2.264817
+201200057738*Paris*Île-de-France*Paris-16e-arrondissement*19*09*2012*09:45*56, AVENUE MOZART*Normale*Plein jour*Indemne,Blessé*1951,1960*2012-09-19T07:45:00+00:00*48.854842*2.269363
+201200057787*Paris*Île-de-France*Paris-16e-arrondissement*14*10*2012*11:15*45, AVENUE GEORGES MANDE*Pluie légère*Plein jour*Indemne,Blessé*1973,1983*2012-10-14T09:15:00+00:00*48.863426*2.281247
+201200057813*Paris*Île-de-France*Paris-16e-arrondissement*02*11*2012*16:00*48, AVENUE VICTOR HUGO*Pluie forte*Plein jour*Blessé,Indemne*1994,1952*2012-11-02T15:00:00+00:00*48.871117*2.288435
+201200057832*Paris*Île-de-France*Paris-16e-arrondissement*16*11*2012*17:40*PORTE DE SAINT CLOUD*Normale*Nuit avec éclairage public allumé*Blessé*1978*2012-11-16T16:40:00+00:00*48.83894*2.253745
+201200057836*Paris*Île-de-France*Paris-16e-arrondissement*20*11*2012*05:15*151, AVENUE DE VERSAILLE*Normale*Nuit sans éclairage public*Blessé*1982*2012-11-20T04:15:00+00:00*48.841629*2.267044
+201200057860*Paris*Île-de-France*Paris-16e-arrondissement*03*12*2012*21:50*109, AVENUE VICTOR HUGO*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1950,1992*2012-12-03T20:50:00+00:00*48.868578*2.283084
+201200057880*Paris*Île-de-France*Paris-16e-arrondissement*13*12*2012*07:45*AVENUE DE L HIPPODROME*Normale*Crépuscule ou aube*Blessé,Indemne*1985,1978*2012-12-13T06:45:00+00:00*48.850606*2.238336
+201200057881*Paris*Île-de-France*Paris-16e-arrondissement*13*12*2012*10:35*18 ter, RUE MOLITOR*Normale*Plein jour*Blessé,Indemne*1979,1945*2012-12-13T09:35:00+00:00*48.845218*2.26353
+201200058016*Paris*Île-de-France*Paris-17e-arrondissement*29*03*2012*12:10*BOULEVARD PERIPHERIQUE*Normale*Plein jour*Blessé*1933*2012-03-29T10:10:00+00:00*48.887813*2.304844
+201200058057*Paris*Île-de-France*Paris-17e-arrondissement*28*04*2012*01:20*BOULEVARD DE DOUAUMONT*Pluie légère*Nuit avec éclairage public allumé*Blessé,Blessé*1984,1985*2012-04-27T23:20:00+00:00*48.895208*2.306023
+201200058061*Paris*Île-de-France*Paris-17e-arrondissement*30*04*2012*18:10*PLACE DE LA PORTE MAILLO*Normale*Plein jour*Blessé,Indemne*1978,1949*2012-04-30T16:10:00+00:00*48.878577*2.283835
+201200058071*Paris*Île-de-France*Paris-17e-arrondissement*09*05*2012*22:00*07, AVENUE DE CLICHY*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1983,1990*2012-05-09T20:00:00+00:00*48.890097*2.320777
+201200058096*Paris*Île-de-France*Paris-17e-arrondissement*01*06*2012*10:00*0, AVENUE DE CLICHY*Normale*Plein jour*Blessé,Indemne*1973,1987*2012-06-01T08:00:00+00:00*48.890097*2.320777
+201200058081*Paris*Île-de-France*Paris-17e-arrondissement*16*05*2012*21:05*102, AVENUE DE CLICHY*Normale*Crépuscule ou aube*Blessé*1973*2012-05-16T19:05:00+00:00*48.889447*2.322285
+201200058109*Paris*Île-de-France*Paris-17e-arrondissement*08*06*2012*21:55*AVENUE STEPHANE MALLARME*Normale*Nuit avec éclairage public allumé*Indemne,Blessé,Indemne,Blessé,Blessé,Blessé,Blessé,Blessé*1974,1982,1961,1966,1964,1954,1932,1984*2012-06-08T19:55:00+00:00*48.886708*2.293012
+201200058111*Paris*Île-de-France*Paris-8e-arrondissement*10*06*2012*11:50*0, RUE PIERRE CHARRON*Normale*Plein jour*Indemne,Blessé*1973,1955*2012-06-10T09:50:00+00:00*48.869364*2.303259
+201200058123*Paris*Île-de-France*Paris-17e-arrondissement*19*06*2012*11:15*PLACE DE LA PORTE MAILLO*Normale*Plein jour*Blessé,Indemne*1979,1978*2012-06-19T09:15:00+00:00*48.878577*2.283835
+201200058158*Paris*Île-de-France*Paris-17e-arrondissement*08*07*2012*21:00*89, AVENUE NIEL*Normale*Nuit sans éclairage public*Blessé,Indemne*1985,1984*2012-07-08T19:00:00+00:00*48.883705*2.296554
+201200058159*Paris*Île-de-France*Paris-17e-arrondissement*09*07*2012*08:45*12, AVENUE DE SALONIQUE*Normale*Plein jour*Blessé*1982*2012-07-09T06:45:00+00:00*48.88228*2.284086
+201200058164*Paris*Île-de-France*Paris-17e-arrondissement*13*07*2012*00:55*AVENUE DE LA PORTE D ASN*Pluie forte*Nuit avec éclairage public allumé*Blessé*1960*2012-07-12T22:55:00+00:00*48.891227*2.302717
+201200058171*Paris*Île-de-France*Paris-17e-arrondissement*25*07*2012*08:00*17, AVENUE DE SAINT OUEN*Normale*Plein jour*Blessé,Blessé*1981,1977*2012-07-25T06:00:00+00:00*48.888622*2.325916
+201200058174*Paris*Île-de-France*Paris-17e-arrondissement*26*07*2012*10:45*4, RUE JULES BOURDAIS*Normale*Plein jour*Indemne,Blessé*1972,1936*2012-07-26T08:45:00+00:00*48.888291*2.299461
+201200058180*Paris*Île-de-France*Paris-16e-arrondissement*04*08*2012*21:10*101, BOULEVARD MURAT*Normale*Nuit avec éclairage public allumé*Blessé*1992*2012-08-04T19:10:00+00:00*48.839863*2.256586
+201200058227*Paris*Île-de-France*Paris-16e-arrondissement*21*09*2012*18:40*BOULEVARD THIERRY DE MAR*Pluie légère*Crépuscule ou aube*Blessé,Blessé*2004,1978*2012-09-21T16:40:00+00:00*48.876527*2.279909
+201200058270*Paris*Île-de-France*Paris-17e-arrondissement*20*10*2012*17:45*7, PLACE GENERAL CATROUX*Pluie légère*Crépuscule ou aube*Blessé,Blessé,Indemne*2009,1976,1963*2012-10-20T15:45:00+00:00*48.882463*2.309572
+201200058304*Paris*Île-de-France*Paris-17e-arrondissement*27*11*2012*13:45*03, RUE GEORGES BERGER*Normale*Plein jour*Indemne,Blessé*1978,1974*2012-11-27T12:45:00+00:00*48.88134*2.310485
+201200058333*Paris*Île-de-France*Paris-17e-arrondissement*23*12*2012*22:45*84, AVENUE NIEL*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1991,1961*2012-12-23T21:45:00+00:00*48.883249*2.296783
+201200058349*Paris*Île-de-France*Paris-18e-arrondissement*16*01*2012*11:10*105, RUE LAMARCK*Normale*Plein jour*Indemne,Blessé*1979,1994*2012-01-16T10:10:00+00:00*48.890654*2.333081
+201200058363*Paris*Île-de-France*Paris-18e-arrondissement*22*01*2012*22:35*1, RUE MARX DORMOY*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1976,1998*2012-01-22T21:35:00+00:00*48.88493*2.359286
+201200058425*Paris*Île-de-France*Paris-18e-arrondissement*09*04*2012*16:40*1, AVENUE DE LA PORTE D*Pluie légère*Plein jour*Blessé,Indemne,Indemne,Blessé,Blessé*2003,1988,1987,2006,2006*2012-04-09T14:40:00+00:00*48.898099*2.337109
+201200058433*Paris*Île-de-France*Paris-18e-arrondissement*17*04*2012*17:10*89, RUE DUHESME*Pluie légère*Plein jour*Indemne,Blessé*1970,1985*2012-04-17T15:10:00+00:00*48.894496*2.344157
+201200058441*Paris*Île-de-France*Paris-18e-arrondissement*24*04*2012*14:40*110, BOULEVARD DE CLICHY*Pluie légère*Plein jour*Indemne,Blessé,Indemne*1980,1966,1956*2012-04-24T12:40:00+00:00*48.884433*2.330845
+201200058458*Paris*Île-de-France*Paris-18e-arrondissement*24*05*2012*19:30*64, RUE RAMEY*Normale*Plein jour*Blessé,Indemne*1967,1974*2012-05-24T17:30:00+00:00*48.891755*2.344823
+201200058512*Paris*Île-de-France*Paris-10e-arrondissement*12*07*2012*16:50*65, RUE DU FAUBOURG SAIN*Pluie légère*Plein jour*Blessé,Blessé,Indemne*1996,2002,1985*2012-07-12T14:50:00+00:00*48.872412*2.354024
+201200058518*Paris*Île-de-France*Paris-18e-arrondissement*20*07*2012*10:30*01, AVENUE DE LA PORTE D*Normale*Plein jour*Blessé,Indemne*1970,1982*2012-07-20T08:30:00+00:00*48.898989*2.336486
+201200058565*Paris*Île-de-France*Paris-18e-arrondissement*14*09*2012*20:55*15, BOULEVARD ORNANO*Normale*Nuit sans éclairage public*Blessé,Indemne,Indemne*1982,1982,1979*2012-09-14T18:55:00+00:00*48.892645*2.348549
+201200058583*Paris*Île-de-France*Paris-18e-arrondissement*28*09*2012*21:15*72, BOULEVARD NEY*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1974,1973*2012-09-28T19:15:00+00:00*48.89856*2.354711
+201200058596*Paris*Île-de-France*Paris-18e-arrondissement*12*10*2012*12:00*76, RUE MARX DORMOY*Normale*Plein jour*Blessé,Indemne*1973,1978*2012-10-12T10:00:00+00:00*48.889821*2.36013
+201200058599*Paris*Île-de-France*Paris-18e-arrondissement*14*10*2012*05:45*72, BOULEVARD NEY*Normale*Nuit avec éclairage public allumé*Blessé*1974*2012-10-14T03:45:00+00:00*48.89856*2.354711
+201200058650*Paris*Île-de-France*Paris-18e-arrondissement*30*11*2012*17:15*44, RUE JOSEPH DE MAISTR*Normale*Crépuscule ou aube*Blessé,Blessé,Indemne,Indemne*1968,1960,1968,1977*2012-11-30T16:15:00+00:00*48.88894*2.331832
+201200058671*Paris*Île-de-France*Paris-18e-arrondissement*20*12*2012*06:55*40, RUE MARX DORMOY*Pluie forte*Nuit avec éclairage public allumé*Blessé,Indemne*1957,1976*2012-12-20T05:55:00+00:00*48.88717*2.359773
+201200058693*Paris*Île-de-France*Paris-19e-arrondissement*20*01*2012*15:50*61, RUE ARMAND CARREL*Pluie légère*Plein jour*Indemne,Blessé*1993,1989*2012-01-20T14:50:00+00:00*48.882762*2.37434
+201200058710*Paris*Île-de-France*Paris-19e-arrondissement*19*02*2012*23:25*PLACE AUGUSTE BARON*Normale*Nuit sans éclairage public*Blessé*1987*2012-02-19T22:25:00+00:00*48.900214*2.386348
+201200058790*Paris*Île-de-France*Paris-19e-arrondissement*30*05*2012*08:50*28, AVENUE DE FLANDRE*Normale*Plein jour*Blessé*1971*2012-05-30T06:50:00+00:00*48.885854*2.371268
+201200058733*Paris*Île-de-France*Paris-19e-arrondissement*14*03*2012*19:00*135, AVENUE DE FLANDRE*Normale*Nuit avec éclairage public allumé*Blessé*1938*2012-03-14T18:00:00+00:00*48.892267*2.37849
+201200058797*Paris*Île-de-France*Paris-19e-arrondissement*05*06*2012*13:00*66, RUE PETIT*Normale*Plein jour*Blessé,Blessé*1979,1983*2012-06-05T11:00:00+00:00*48.887252*2.387708
+201200058821*Paris*Île-de-France*Paris-19e-arrondissement*30*06*2012*12:20*1, PLACE DE LA PORTE DE*Normale*Plein jour*Indemne,Blessé*1982,1965*2012-06-30T10:20:00+00:00*48.890206*2.398724
+201200058833*Paris*Île-de-France*Paris-19e-arrondissement*12*07*2012*09:30*4, RUE DE THIONVILLE*Normale*Plein jour*Indemne,Blessé*1962,1973*2012-07-12T07:30:00+00:00*48.887774*2.380704
+201200058848*Paris*Île-de-France*Paris-19e-arrondissement*31*07*2012*12:05*RUE DE CRIMEE*Normale*Plein jour*Blessé*1974*2012-07-31T10:05:00+00:00*48.885821*2.382394
+201200058876*Paris*Île-de-France*Paris-19e-arrondissement*13*09*2012*19:20*128, AVENUE JEAN JAURES*Normale*Plein jour*Blessé*1988*2012-09-13T17:20:00+00:00*48.886368*2.384299
+201200058912*Paris*Île-de-France*Paris-19e-arrondissement*16*10*2012*16:25*70, RUE CURIAL*Normale*Plein jour*Blessé,Indemne*1942,1947*2012-10-16T14:25:00+00:00*48.89404*2.37373
+201200058882*Paris*Île-de-France*Paris-19e-arrondissement*18*09*2012*19:04*137, AVENUE JEAN JAURES*Normale*Plein jour*Blessé*1971*2012-09-18T17:04:00+00:00*48.88649*2.383725
+201200058959*Paris*Île-de-France*Paris-19e-arrondissement*08*12*2012*19:50*1, RUE DE BELLEVILLE*Normale*Nuit avec éclairage public allumé*Blessé,Blessé*1995,1996*2012-12-08T18:50:00+00:00*48.872199*2.377144
+201200058972*Paris*Île-de-France*Paris-19e-arrondissement*22*12*2012*15:15*33, AVENUE SIMON BOLIVAR*Pluie légère*Plein jour*Blessé,Indemne*1956,1953*2012-12-22T14:15:00+00:00*48.875399*2.381924
+201200059034*Paris*Île-de-France*Paris-20e-arrondissement*28*02*2012*02:20*273, RUE DE BELLEVILLE*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1973,1973*2012-02-28T01:20:00+00:00*48.875382*2.390942
+201200059066*Paris*Île-de-France*Paris-20e-arrondissement*04*04*2012*14:10*243BIS, RUE DES PYRENEES*Pluie légère*Plein jour*Blessé,Indemne*1943,1974*2012-04-04T12:10:00+00:00*48.863367*2.397152
+201200059094*Paris*Île-de-France*Paris-20e-arrondissement*07*05*2012*13:35*44, RUE DES ENVIERGES*Normale*Plein jour*Indemne,Blessé*1972,2005*2012-05-07T11:35:00+00:00*48.872366*2.388367
+201200059115*Paris*Île-de-France*Paris-20e-arrondissement*25*05*2012*08:30*19, COURS DE VINCENNES*Normale*Plein jour*Blessé,Indemne*1970,1945*2012-05-25T06:30:00+00:00*48.848339*2.400804
+201200059135*Paris*Île-de-France*Paris-20e-arrondissement*14*06*2012*18:30*4, BOULEVARD DAVOUT*Normale*Plein jour*Blessé*2000*2012-06-14T16:30:00+00:00*48.848868*2.412276
+201200059168*Paris*Île-de-France*Paris-20e-arrondissement*07*07*2012*20:55*0, AVENUE GAMBETTA*Normale*Plein jour*Indemne,Blessé,Blessé*1977,1985,1986*2012-07-07T18:55:00+00:00*48.867691*2.400725
+201200059177*Paris*Île-de-France*Paris-20e-arrondissement*15*07*2012*04:45*RUE DE MENILMONTANT*Normale*Nuit avec éclairage public allumé*Indemne,Blessé,Indemne*1990,1990,1967*2012-07-15T02:45:00+00:00*48.868814*2.390546
+201200059242*Paris*Île-de-France*Paris-20e-arrondissement*20*09*2012*10:00*75, AVENUE GAMBETTA*Normale*Plein jour*Indemne,Blessé*1957,1965*2012-09-20T08:00:00+00:00*48.864981*2.39716
+201200059352*Paris*Île-de-France*Paris-20e-arrondissement*15*12*2012*14:00*0, RUE FRANCIS PICABIA*Normale*Plein jour*Indemne,Blessé*1945,1992*2012-12-15T13:00:00+00:00*48.869888*2.382152
+201200059383*Paris*Île-de-France*Paris-15e-arrondissement*14*01*2012*02:45*105, RUE DE LOURMEL*Normale*Nuit avec éclairage public allumé*Blessé*1983*2012-01-14T01:45:00+00:00*48.843113*2.286373
+201200059301*Paris*Île-de-France*Paris-20e-arrondissement*29*10*2012*20:30*0, BOULEVARD PERIPHERIQU*Normale*Nuit avec éclairage public allumé*Blessé,Indemne,Blessé*1956,1986,1961*2012-10-29T19:30:00+00:00*48.862605*2.396749
+201200059379*Paris*Île-de-France*Paris-11e-arrondissement*12*01*2012*10:30*94, AVENUE PARMENTIER*Normale*Plein jour*Blessé,Indemne*1950,1960*2012-01-12T09:30:00+00:00*48.865936*2.374226
+201200059409*Paris*Île-de-France*Paris-4e-arrondissement*09*02*2012*03:15*QUAI DE GESVRES*Normale*Nuit avec éclairage public allumé*Blessé,Blessé,Blessé,Blessé,Blessé*1977,1985,1977,1975,1979*2012-02-09T02:15:00+00:00*48.856667*2.349162
+201200059418*Paris*Île-de-France*Paris-13e-arrondissement*17*02*2012*00:01*11, AVENUE D ITALIE*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1978,1965*2012-02-16T23:01:00+00:00*48.829656*2.356473
+201200059420*Paris*Île-de-France*Paris-4e-arrondissement*21*02*2012*22:05*/, VOIE GEORGES POMPIDOU*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1967,1963*2012-02-21T21:05:00+00:00*48.854054*2.355056
+201200059435*Paris*Île-de-France*Paris-16e-arrondissement*04*03*2012*00:30*44, AVENUE MOZART*Normale*Nuit avec éclairage public allumé*Blessé,Blessé*1990,1950*2012-03-03T23:30:00+00:00*48.855793*2.270387
+201200059468*Paris*Île-de-France*Paris-20e-arrondissement*13*04*2012*04:55*PORTE DES LILAS*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1982,1976*2012-04-13T02:55:00+00:00*48.877513*2.408217
+201200059473*Paris*Île-de-France*Paris-16e-arrondissement*15*04*2012*19:50*AVENUE DES NATIONS UNIES*Normale*Crépuscule ou aube*Blessé,Blessé,Indemne*1994,1994,1986*2012-04-15T17:50:00+00:00*48.861831*2.291545
+201200059477*Paris*Île-de-France*Paris-16e-arrondissement*18*04*2012*20:40*146, AVENUE DE MALAKOFF*Pluie légère*Nuit avec éclairage public allumé*Blessé,Indemne*1993,1985*2012-04-18T18:40:00+00:00*48.875797*2.283951
+201200059516*Paris*Île-de-France*Paris-16e-arrondissement*22*05*2012*16:15*30 bis, AVENUE PAUL DOUM*Normale*Plein jour*Blessé,Indemne*1977,1988*2012-05-22T14:15:00+00:00*48.856448*2.264817
+201200059540*Paris*Île-de-France*Paris-14e-arrondissement*08*06*2012*01:05*20, RUE DE LA TOMBE ISSO*Normale*Nuit avec éclairage public allumé*Blessé*1971*2012-06-07T23:05:00+00:00*48.831912*2.335146
+201200059557*Paris*Île-de-France*Paris-8e-arrondissement*22*06*2012*01:30*3, AVENUE DE FRIEDLAND*Normale*Nuit avec éclairage public allumé*Blessé,Blessé,Blessé*1983,1981,1977*2012-06-21T23:30:00+00:00*48.874577*2.304422
+201200059561*Paris*Île-de-France*Paris-15e-arrondissement*23*06*2012*18:05*RUE DE VAUGIRARD*Normale*Plein jour*Blessé,Blessé*1986,1973*2012-06-23T16:05:00+00:00*48.839695*2.302416
+201200059569*Paris*Île-de-France*Paris-18e-arrondissement*29*06*2012*07:20*RUE DE LA CHAPELLE*Normale*Plein jour*Indemne,Blessé*1967,1944*2012-06-29T05:20:00+00:00*48.890508*2.359693
+201200059621*Paris*Île-de-France*Paris-18e-arrondissement*06*08*2012*18:00*34-36, RUE PAJOL*Normale*Plein jour*Indemne,Blessé*1962,2006*2012-08-06T16:00:00+00:00*48.890405*2.363249
+201200059760*Paris*Île-de-France*Paris-16e-arrondissement*04*12*2012*16:20*58, AVENUE D IENA*Normale*Plein jour*Blessé,Blessé,Blessé*2008,1986,1970*2012-12-04T15:20:00+00:00*48.868105*2.295942
+201200059813*Paris*Île-de-France*Paris-17e-arrondissement*14*01*2012*18:00*PORTE DE SAINT OUEN*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1981,1958*2012-01-14T17:00:00+00:00*48.898641*2.329009
+201200059835*Paris*Île-de-France*Paris-16e-arrondissement*01*02*2012*15:45*PORTE DAUPHINE*Normale*Plein jour*Indemne,Indemne,Indemne,Blessé*1968,1981,1978,1970*2012-02-01T14:45:00+00:00*48.870905*2.277311
+201200059866*Paris*Île-de-France*Paris-20e-arrondissement*27*02*2012*17:15*PORTE DE MONTREUIL*Normale*Plein jour*Indemne,Indemne,Blessé,Indemne*1967,1987,1972,1993*2012-02-27T16:15:00+00:00*48.85382*2.411499
+201200059884*Paris*Île-de-France*Paris-19e-arrondissement*07*03*2012*15:00*ECHANGEUR PANTIN*Pluie légère*Plein jour*Indemne,Blessé*1975,1970*2012-03-07T14:00:00+00:00*48.890085*2.398738
+201200059965*Paris*Île-de-France*Paris-16e-arrondissement*23*04*2012*07:00*PORTE DE PASSY*Normale*Plein jour*Indemne,Indemne,Blessé,Indemne*1976,1976,1961,1984*2012-04-23T05:00:00+00:00*48.857306*2.263934
+201200059975*Paris*Île-de-France*Paris-20e-arrondissement*28*04*2012*21:10*PORTE DES LILAS*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1974,1982*2012-04-28T19:10:00+00:00*48.877513*2.408217
+201200059982*Paris*Île-de-France*Paris-20e-arrondissement*01*05*2012*17:10*PORTE DE BAGNOLET*Temps éblouissant*Plein jour*Blessé,Indemne,Indemne,Blessé*1986,1978,1984,1986*2012-05-01T15:10:00+00:00*48.864634*2.409619
+201200059993*Paris*Île-de-France*Paris-15e-arrondissement*07*05*2012*11:30*PORTE DE SEVRES*Normale*Plein jour*Blessé,Indemne*1959,1979*2012-05-07T09:30:00+00:00*48.835478*2.278174
+201200060030*Paris*Île-de-France*Paris-18e-arrondissement*25*05*2012*11:45*PORTE DE CLIGNANCOURT*Normale*Plein jour*Indemne,Blessé,Indemne*1968,1963,1974*2012-05-25T09:45:00+00:00*48.898675*2.344117
+201200060037*Paris*Île-de-France*Paris-20e-arrondissement*27*05*2012*13:30*PORTE DE BAGNOLET*Normale*Plein jour*Blessé,Blessé,Indemne,Indemne*1980,1983,1980,1991*2012-05-27T11:30:00+00:00*48.864634*2.409619
+201200060042*Paris*Île-de-France*Paris-19e-arrondissement*29*05*2012*19:40*PORTE DE PANTIN*Normale*Plein jour*Blessé,Indemne*1963,1954*2012-05-29T17:40:00+00:00*48.890085*2.398738
+201200060050*Paris*Île-de-France*Paris-19e-arrondissement*03*06*2012*01:00*BOULEVARD PERIPHERIQUE E*Temps couvert*Nuit avec éclairage public allumé*Blessé*1985*2012-06-02T23:00:00+00:00*48.889363*2.388004
+201200060070*Paris*Île-de-France*Paris-16e-arrondissement*13*06*2012*17:20*PORTE DE PASSY*Normale*Plein jour*Blessé,Indemne*1938,1967*2012-06-13T15:20:00+00:00*48.857306*2.263934
+201200060084*Paris*Île-de-France*Paris-17e-arrondissement*22*06*2012*16:10*PORTE D ASNIERES*Normale*Plein jour*Blessé*1959*2012-06-22T14:10:00+00:00*48.891227*2.302717
+201200060128*Paris*Île-de-France*Paris-20e-arrondissement*13*07*2012*17:20*PORTE DE BAGNOLET*Temps couvert*Plein jour*Indemne,Blessé*1972,1960*2012-07-13T15:20:00+00:00*48.864634*2.409619
+201200060155*Paris*Île-de-France*Paris-12e-arrondissement*30*07*2012*17:10*PORTE DE SAINT MANDE*Normale*Plein jour*Indemne,Blessé*1986,1977*2012-07-30T15:10:00+00:00*48.844735*2.402566
+201200060174*Paris*Île-de-France*Paris-16e-arrondissement*23*08*2012*01:50*BOULEVARD PERIPHERIQUE I*Normale*Nuit avec éclairage public allumé*Blessé,Blessé*1945,1938*2012-08-22T23:50:00+00:00*48.856305*2.267032
+201200060267*Paris*Île-de-France*Paris-14e-arrondissement*05*10*2012*14:35*PORTE BRANCION*Normale*Plein jour*Blessé,Blessé,Indemne*1990,1988,1963*2012-10-05T12:35:00+00:00*48.822898*2.322918
+201200060280*Paris*Île-de-France*Paris-14e-arrondissement*12*10*2012*19:45*PORTE DE CHATILLON*Normale*Nuit avec éclairage public allumé*Blessé,Blessé,Indemne,Blessé,Blessé,Indemne,Indemne*1988,1978,1964,1960,1982,1980,1987*2012-10-12T17:45:00+00:00*48.823347*2.316524
+201200060325*Paris*Île-de-France*Paris-18e-arrondissement*02*11*2012*15:50*ECHANGEUR CHAPELLE*Normale*Plein jour*Blessé*1984*2012-11-02T14:50:00+00:00*48.892045*2.348679
+201200060327*Paris*Île-de-France*Paris-16e-arrondissement*03*11*2012*10:10*ECHANGEUR SAINT CLOUD*Normale*Plein jour*Blessé,Blessé,Blessé*1971,1967,1971*2012-11-03T09:10:00+00:00*48.857357*2.25359
+201200060330*Paris*Île-de-France*Paris-16e-arrondissement*03*11*2012*20:00*PORTE DAUPHINE*Normale*Nuit avec éclairage public allumé*Indemne,Indemne,Blessé*1975,1975,1977*2012-11-03T19:00:00+00:00*48.870905*2.277311
+201200060433*Paris*Île-de-France*Paris-16e-arrondissement*23*12*2012*18:25*ECHANGEUR MUETTE*Normale*Nuit avec éclairage public allumé*Indemne,Indemne,Blessé*1988,1961,1980*2012-12-23T17:25:00+00:00*48.858325*2.273406
+201200060378*Paris*Île-de-France*Paris-17e-arrondissement*23*11*2012*13:30*PORTE D ASNIERES*Pluie légère*Plein jour*Blessé*1977*2012-11-23T12:30:00+00:00*48.891227*2.302717
+201200054386*Paris*Île-de-France*Paris-7e-arrondissement*27*03*2012*08:45*12, AVENUE DE LOWENDAL*Normale*Plein jour*Blessé,Indemne*1970,1976*2012-03-27T06:45:00+00:00*48.852996*2.308613
+201200054403*Paris*Île-de-France*Paris-7e-arrondissement*03*05*2012*09:35*65, AVENUE DE SUFFREN*Temps couvert*Plein jour*Blessé,Indemne*1964,1983*2012-05-03T07:35:00+00:00*48.852052*2.299607
+201200054414*Paris*Île-de-France*Paris-7e-arrondissement*21*05*2012*08:00*71, QUAI D ORSAY*Normale*Plein jour*Indemne,Blessé*1979,1997*2012-05-21T06:00:00+00:00*48.862244*2.305712
+201200054510*Paris*Île-de-France*Paris-7e-arrondissement*23*10*2012*09:59*16, RUE SURCOUF*Temps couvert*Plein jour*Indemne,Blessé*1987,1980*2012-10-23T07:59:00+00:00*48.860901*2.309383
+201200054512*Paris*Île-de-France*Paris-7e-arrondissement*23*10*2012*13:00*1, AVENUE DU MARECHAL GA*Normale*Plein jour*Blessé,Indemne*1965,1965*2012-10-23T11:00:00+00:00*48.861134*2.313189
+201200054514*Paris*Île-de-France*Paris-7e-arrondissement*26*10*2012*16:10*89, RUE SAINT DOMINIQUE*Temps couvert*Plein jour*Indemne,Blessé*1971,1965*2012-10-26T14:10:00+00:00*48.859625*2.307602
+201200054533*Paris*Île-de-France*Paris-7e-arrondissement*22*11*2012*10:25*48, RUE DES SAINTS PERES*Temps couvert*Plein jour*Blessé*1976*2012-11-22T09:25:00+00:00*48.854839*2.330558
+201200054582*Paris*Île-de-France*Paris-8e-arrondissement*25*01*2012*00:45*63, AVENUE HOCHE*Pluie légère*Nuit avec éclairage public allumé*Blessé,Indemne*1971,1978*2012-01-24T23:45:00+00:00*48.876369*2.300823
+201200054640*Paris*Île-de-France*Paris-8e-arrondissement*14*03*2012*19:30*30, AVENUE FRANKLIN D RO*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1956,1983*2012-03-14T18:30:00+00:00*48.872481*2.31021
+201200054645*Paris*Île-de-France*Paris-8e-arrondissement*19*03*2012*11:00*6, RUE DES SAUSSAIES*Normale*Plein jour*Indemne,Blessé*1945,1955*2012-03-19T10:00:00+00:00*48.871138*2.317077
+201200054652*Paris*Île-de-France*Paris-8e-arrondissement*27*03*2012*18:00*1, AVENUE DE FRIEDLAND*Normale*Plein jour*Indemne,Blessé*1962,1971*2012-03-27T16:00:00+00:00*48.874617*2.304776
+201200054684*Paris*Île-de-France*Paris-8e-arrondissement*06*05*2012*05:40*25, AVENUE DES CHAMPS EL*Pluie forte*Nuit avec éclairage public allumé*Blessé,Indemne*1984,1986*2012-05-06T03:40:00+00:00*48.869383*2.307725
+201200054697*Paris*Île-de-France*Paris-8e-arrondissement*15*05*2012*07:40*1, RUE ROYALE*Normale*Plein jour*Blessé,Blessé*1975,1987*2012-05-15T05:40:00+00:00*48.866751*2.322011
+201200054761*Paris*Île-de-France*Paris-8e-arrondissement*06*07*2012*16:40*39, RUE DE CONSTANTINOPL*Pluie légère*Plein jour*Blessé*1986*2012-07-06T14:40:00+00:00*48.880863*2.317436
+201200054772*Paris*Île-de-France*Paris-8e-arrondissement*12*07*2012*22:30*42, AVENUE GEORGE V*Pluie légère*Nuit avec éclairage public allumé*Indemne,Blessé*1987,1995*2012-07-12T20:30:00+00:00*48.870482*2.301241
+201200054790*Paris*Île-de-France*Paris-8e-arrondissement*23*07*2012*23:25*PLACE CHARLES DE GAULLE*Normale*Nuit avec éclairage public allumé*Blessé*1966*2012-07-23T21:25:00+00:00*48.873377*2.295581
+201200054809*Paris*Île-de-France*Paris-8e-arrondissement*11*08*2012*09:10*15, RUE ROYALE*Normale*Plein jour*Blessé*1991*2012-08-11T07:10:00+00:00*48.868247*2.32294
+201200054829*Paris*Île-de-France*Paris-8e-arrondissement*31*08*2012*20:15*PLACE DE LA CONCORDE*Normale*Plein jour*Indemne,Blessé*1968,1960*2012-08-31T18:15:00+00:00*48.867065*2.321877
+201200054777*Paris*Île-de-France*Paris-8e-arrondissement*17*07*2012*16:30*68, RUE DE ROME*Normale*Plein jour*Indemne,Blessé*1990,1984*2012-07-17T14:30:00+00:00*48.880491*2.321477
+201200054832*Paris*Île-de-France*Paris-8e-arrondissement*04*09*2012*10:00*21, RUE CAMBACERES*Normale*Plein jour*Blessé,Indemne*1970,1956*2012-09-04T08:00:00+00:00*48.8731*2.317871
+201200054839*Paris*Île-de-France*Paris-8e-arrondissement*11*09*2012*19:15*PLACE CHARLES DE GAULLE*Normale*Plein jour*Indemne,Blessé*1954,1971*2012-09-11T17:15:00+00:00*48.873377*2.295581
+201200054872*Paris*Île-de-France*Paris-8e-arrondissement*03*10*2012*11:50*PLACE DE LA CONCORDE*Normale*Plein jour*Indemne,Blessé*1989,1980*2012-10-03T09:50:00+00:00*48.867065*2.321877
+201200054931*Paris*Île-de-France*Paris-8e-arrondissement*08*11*2012*22:15*48 bis, AVENUE MONTAIGNE*Normale*Nuit avec éclairage public allumé*Indemne,Blessé*1963,1948*2012-11-08T21:15:00+00:00*48.86772*2.308084
+201200054938*Paris*Île-de-France*Paris-17e-arrondissement*12*11*2012*16:45*22, AVENUE DE WAGRAM*Normale*Crépuscule ou aube*Blessé,Indemne*1957,1986*2012-11-12T15:45:00+00:00*48.881523*2.300611
+201200054942*Paris*Île-de-France*Paris-8e-arrondissement*13*11*2012*23:30*, RUE DE BERRI*Normale*Nuit avec éclairage public allumé*Blessé,Indemne,Indemne*1989,1987,1989*2012-11-13T22:30:00+00:00*48.873281*2.305578
+201200055000*Paris*Île-de-France*Paris-8e-arrondissement*18*12*2012*12:10*24, AVENUE GEORGE V*Pluie légère*Plein jour*Blessé,Indemne*1977,1972*2012-12-18T11:10:00+00:00*48.867652*2.301502
+201200055008*Paris*Île-de-France*Paris-8e-arrondissement*28*12*2012*12:30*PLACE DE LA CONCORDE*Temps couvert*Plein jour*Blessé,Indemne*1964,1976*2012-12-28T11:30:00+00:00*48.867065*2.321877
+201200055017*Paris*Île-de-France*Paris-9e-arrondissement*05*01*2012*08:40*77, BOULEVARD DE CLICHY*Pluie légère*Plein jour*Blessé,Indemne,Blessé*1965,1977,1963*2012-01-05T07:40:00+00:00*48.884068*2.329088
+201200055128*Paris*Île-de-France*Paris-9e-arrondissement*23*07*2012*20:10*75bis, BOULEVARD DE CLIC*Normale*Plein jour*Blessé,Indemne*1965,1986*2012-07-23T18:10:00+00:00*48.877008*2.337888
+201200055140*Paris*Île-de-France*Paris-9e-arrondissement*23*08*2012*10:20*BOULEVARD MONTMARTRE*Normale*Plein jour*Blessé,Blessé*1979,1997*2012-08-23T08:20:00+00:00*48.871907*2.341555
+201200055174*Paris*Île-de-France*Paris-9e-arrondissement*09*10*2012*09:35*1, RUE DE CLICHY*Pluie légère*Plein jour*Blessé,Indemne*1960,1981*2012-10-09T07:35:00+00:00*48.880214*2.329086
+201200055178*Paris*Île-de-France*Paris-9e-arrondissement*14*10*2012*12:40*09, RUE AUBER*Pluie forte*Plein jour*Indemne,Blessé*1984,1968*2012-10-14T10:40:00+00:00*48.872494*2.329068
+201200055211*Paris*Île-de-France*Paris-9e-arrondissement*21*12*2012*17:00*23, RUE DE LA ROCHEFOUCA*Pluie légère*Nuit avec éclairage public allumé*Indemne,Blessé*1991,1997*2012-12-21T16:00:00+00:00*48.878676*2.334454
+201200055264*Paris*Île-de-France*Paris-10e-arrondissement*12*03*2012*06:00*127, BOULEVARD DE MAGENT*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1988,1972*2012-03-12T05:00:00+00:00*48.880538*2.351918
+201200055266*Paris*Île-de-France*Paris-10e-arrondissement*15*03*2012*08:30*2, PLACE NAPOLEON III*Normale*Plein jour*Blessé*1986*2012-03-15T07:30:00+00:00*48.879926*2.355758
+201200055327*Paris*Île-de-France*Paris-10e-arrondissement*03*06*2012*14:00*149, RUE DU FAUBOURG SAI*Temps couvert*Plein jour*Blessé*1974*2012-06-03T12:00:00+00:00*48.878354*2.35646
+201200055311*Paris*Île-de-France*Paris-10e-arrondissement*07*05*2012*18:55*153, RUE LA FAYETTE*Normale*Plein jour*Indemne,Blessé*1976,1983*2012-05-07T16:55:00+00:00*48.879329*2.35671
+201200055362*Paris*Île-de-France*Paris-10e-arrondissement*02*07*2012*12:00*214, RUE DU FAUBOURG SAI*Normale*Plein jour*Indemne,Blessé*1952,1938*2012-07-02T10:00:00+00:00*48.883042*2.35918
+201200055468*Paris*Île-de-France*Paris-10e-arrondissement*29*10*2012*19:00*81, BOULEVARD DE STRASBO*Normale*Nuit avec éclairage public allumé*Blessé,Indemne*1965,1974*2012-10-29T18:00:00+00:00*48.875601*2.357401
+201200055469*Paris*Île-de-France*Paris-10e-arrondissement*30*10*2012*14:05*69, BOULEVARD DE MAGENTA*Normale*Plein jour*Blessé*1982*2012-10-30T13:05:00+00:00*48.875032*2.356929
+201200055478*Paris*Île-de-France*Paris-10e-arrondissement*05*11*2012*17:30*0, RUE DU TERRAGE*Pluie légère*Nuit avec éclairage public allumé*Indemne,Blessé*1976,1985*2012-11-05T16:30:00+00:00*48.877364*2.362743
+201200055544*Paris*Île-de-France*Paris-11e-arrondissement*25*01*2012*15:00*84, AVENUE DE LA REPUBLI*Pluie légère*Plein jour*Blessé,Indemne*1980,1954*2012-01-25T14:00:00+00:00*48.864143*2.379672
+201200055588*Paris*Île-de-France*Paris-11e-arrondissement*13*03*2012*16:45*41, AVENUE DE LA REPUBLI*Normale*Plein jour*Indemne,Indemne,Blessé*1972,1980,1986*2012-03-13T15:45:00+00:00*48.865348*2.374898
