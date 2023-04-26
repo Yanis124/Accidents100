@@ -780,7 +780,7 @@ function createList(valueList){  //create checklist options
 
 var listAccident=[]
 
-async function (){
+async function getAccident (){
     var res1=await fetch('../new1.txt')
     var res2=await fetch('../new2.txt')
     var res3=await fetch('../new3.txt')
