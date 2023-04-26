@@ -780,16 +780,16 @@ function createList(valueList){  //create checklist options
 
 var listAccident=[]
 
-async function getAccident (){
-    var res1=await fetch('../new1.txt')
-    var res2=await fetch('../new2.txt')
-    var res3=await fetch('../new3.txt')
-    var res4=await fetch('../new4.txt')
-    var res5=await fetch('../new5.txt')
-    var res6=await fetch('../new6.txt')
-    var res7=await fetch('../new7.txt')
-    var res8=await fetch('../new8.txt')
-    var res9=await fetch('../new9.txt')
+async function getAccident(){
+    var res1=await fetch('new1.txt')
+    var res2=await fetch('new2.txt')
+    var res3=await fetch('new3.txt')
+    var res4=await fetch('new4.txt')
+    var res5=await fetch('new5.txt')
+    var res6=await fetch('new6.txt')
+    var res7=await fetch('new7.txt')
+    var res8=await fetch('new8.txt')
+    var res9=await fetch('new9.txt')
     var data1=await res1.text()
     var data2=await res2.text()
     var data3=await res3.text()
@@ -800,7 +800,7 @@ async function getAccident (){
     var data8=await res8.text()
     var data9=await res9.text()
 
-     var data=data1+"\n"+data2+"\n"+data3+"\n"+data4+"\n"+data5+"\n"+data6+"\n"+data7+"\n"+data8+"\n"+data9
+    var data=data1+"\n"+data2+"\n"+data3+"\n"+data4+"\n"+data5+"\n"+data6+"\n"+data7+"\n"+data8+"\n"+data9
 
     const lines=data.split("\n")
     for(let i=0;i<lines.length;i++){
@@ -1605,7 +1605,7 @@ async function createPin(){
     
 
 
-    const record=50000
+    const record=49999
     const waitingTime=2000
     let a
     let b
@@ -1695,6 +1695,12 @@ getGravite()
 initMap()
 createPin()
 resetDate()
+
+
+
+
+
+
 
 
 
